@@ -39,7 +39,7 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Atualização automática (dados) - NBA Stats"
-          file_pattern: frontend/nba-stats-dashboard/public/data/stats.json
+          file_pattern: frontend/public/data/stats.json
           commit_user_name: "GitHub Actions Bot"
           commit_user_email: "actions@github.com"
           commit_author: "GitHub Actions Bot <actions@github.com>"
