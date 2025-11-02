@@ -9,14 +9,14 @@ import {
     Tooltip,
     Legend,
 } from "chart.js";
-import { nameKey } from "./utils"; 
+import { nameKey, formatTimestamp } from "./utils";
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend);
 
 export default function PlayersTable() {
     const [players, setPlayers] = useState([]);
     const [playerImages, setPlayerImages] = useState({});
-    
+
     const [searchParams, setSearchParams] = useSearchParams();
 
     const currentPage = Number(searchParams.get("page")) || 1;
@@ -83,7 +83,7 @@ export default function PlayersTable() {
         });
     }, [players, searchTerm, filterPos, filterTeam, sortKey, sortOrder]);
 
-    
+
     const totalPages = Math.ceil(filteredPlayers.length / itemsPerPage) || 1;
     const currentPlayers = filteredPlayers.slice(
         (currentPage - 1) * itemsPerPage,
@@ -118,7 +118,7 @@ export default function PlayersTable() {
             return prev;
         });
     };
-    
+
     const handleFilterPos = (pos) => {
         setSearchParams(prev => {
             prev.set("pos", pos);
@@ -221,9 +221,8 @@ export default function PlayersTable() {
                                     <tr
                                         key={`${p.NAME}-${i}`}
                                         onClick={() => navigate(`/player/${encodeURIComponent(p.NAME)}`)}
-                                        className={`border-b border-gray-700 hover:bg-gray-700/50 transition cursor-pointer ${
-                                            i % 2 === 0 ? "bg-gray-800" : "bg-gray-900"
-                                        }`}
+                                        className={`border-b border-gray-700 hover:bg-gray-700/50 transition cursor-pointer ${i % 2 === 0 ? "bg-gray-800" : "bg-gray-900"
+                                            }`}
                                     >
                                         <td className="px-4 py-2 flex items-center gap-3">
                                             <img
@@ -278,11 +277,10 @@ export default function PlayersTable() {
                         <button
                             key={i}
                             onClick={() => goToPage(i + 1)}
-                            className={`px-3 py-1 rounded-lg ${
-                                currentPage === i + 1
+                            className={`px-3 py-1 rounded-lg ${currentPage === i + 1
                                     ? "bg-orange-500 text-white"
                                     : "bg-gray-700 hover:bg-gray-600 text-gray-300"
-                            }`}
+                                }`}
                         >
                             {i + 1}
                         </button>

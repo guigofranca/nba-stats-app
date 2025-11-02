@@ -11,3 +11,19 @@ const normalize = (s) =>
     .trim();
 
 export const nameKey = (s) => normalize(stripSuffixes(s)).replace(/\s+/g, "");
+
+// formatar hora
+
+export const formatTimestamp = (isoString) => {
+  if (!isoString || isoString === "carregando...") return "carregando...";
+  
+  const date = new Date(isoString);
+  
+  return date.toLocaleString("pt-BR", {
+    day: "numeric",
+    month: "long",
+    year: "numeric",
+    hour: "2-digit",
+    minute: "2-digit",
+  });
+};

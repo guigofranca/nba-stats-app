@@ -10,7 +10,7 @@ import {
   Tooltip,
   Legend,
 } from "chart.js";
-import { nameKey } from "./utils"; 
+import { nameKey } from "./utils";
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend);
 
@@ -61,7 +61,7 @@ export default function PlayerDetails() {
     const run = async () => {
       try {
         // MUDANÇA AQUI: Corrigido o caminho para /data/
-        const res = await fetch("/data/stats.json"); 
+        const res = await fetch("/data/stats.json");
         const data = await res.json();
         const decoded = decodeURIComponent(name);
         const targetKey = nameKey(decoded); // Usando a função importada
@@ -92,13 +92,13 @@ export default function PlayerDetails() {
     const getNBAImage = async () => {
       try {
 
-        const res = await fetch("/data/nba_players.json"); 
+        const res = await fetch("/data/nba_players.json");
         const rawData = await res.json();
         const list = Array.isArray(rawData)
           ? rawData
           : rawData.players
-          ? rawData.players
-          : [];
+            ? rawData.players
+            : [];
 
         const target = nameKey(player.NAME);
         const match =
@@ -115,8 +115,7 @@ export default function PlayerDetails() {
         if (match) {
           const img =
             match.headshot_url ||
-            `https://cdn.nba.com/headshots/nba/latest/1040x760/${
-              match.id || match.player_id
+            `https://cdn.nba.com/headshots/nba/latest/1040x760/${match.id || match.player_id
             }.png`;
           setPlayerImg(img);
         } else setPlayerImg(null);
@@ -153,8 +152,8 @@ export default function PlayerDetails() {
 
   return (
     <div className="max-w-3xl mx-auto mt-10 bg-gray-800/70 p-6 rounded-2xl shadow-lg">
-      <button 
-        onClick={() => navigate(-1)} 
+      <button
+        onClick={() => navigate(-1)}
         className="text-orange-400 hover:underline"
       >
         ← Voltar
@@ -250,7 +249,7 @@ export default function PlayerDetails() {
       </table>
 
       <p className="text-center text-gray-400 text-sm mt-6">
-        Última atualização: {player.UPDATED_AT}
+        Última atualização: {formatTimestamp(player.UPDATED_AT)}
       </p>
     </div>
   );
