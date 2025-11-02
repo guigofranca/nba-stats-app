@@ -41,7 +41,7 @@ def scrape_data():
     column_map = {
         'Player': 'NAME',
         'Pos': 'POS',
-        'Tm': 'TEAM',
+        'Team': 'TEAM',
         'G': 'GP',      # Games Played
         'MP': 'MIN',    # Minutes Per Game
         'PTS': 'PTS',
