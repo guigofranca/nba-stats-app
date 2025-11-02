@@ -13,11 +13,18 @@ import {
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend);
 
+const getLastName = (fullName) => {
+  if (!fullName) return "";
+  const suffixes = /\b(jr|sr|ii|iii|iv)\b/gi;
+  const nameWithoutSuffix = fullName.replace(suffixes, "").trim();
+  const parts = nameWithoutSuffix.split(' ');
+  return parts[parts.length - 1];
+};
+
 export default function TopPerformers() {
   const [players, setPlayers] = useState([]);
 
   useEffect(() => {
-    // MUDANÇA AQUI: Corrigido o caminho para /data/
     fetch("/data/stats.json")
       .then((res) => res.json())
       .then((data) => setPlayers(data))
@@ -30,8 +37,7 @@ export default function TopPerformers() {
         <p>Carregando estatísticas...</p>
       </div>
     );
-  
-  // ... (O resto do seu código JSX continua exatamente igual) ...
+
   const stats = ["PTS", "REB", "AST", "STL", "BLK", "TO"];
 
   // Função para pegar top 5 de cada estatística
@@ -53,8 +59,9 @@ export default function TopPerformers() {
       </div>
 
       {stats.map((stat) => {
+
         const leaders = getTopPlayers(stat);
-        const labels = leaders.map((p) => p.NAME);
+        const labels = leaders.map((p) => getLastName(p.NAME));
         const values = leaders.map((p) => p[stat]);
 
         return (
@@ -103,7 +110,7 @@ export default function TopPerformers() {
               />
             </div>
 
-            {/* Tabela mini */}
+            {/* Tabela mini*/}
             <table className="min-w-full mt-3 text-sm text-gray-300">
               <thead className="bg-gray-700 text-orange-300 uppercase text-xs">
                 <tr>
@@ -121,7 +128,7 @@ export default function TopPerformers() {
                     } border-b border-gray-600`}
                   >
                     <td className="px-4 py-2">{i + 1}</td>
-                    <td className="px-4 py-2">{p.NAME}</td>
+                    <td className="px-4 py-2">{p.NAME}</td> 
                     <td className="px-4 py-2 text-center text-orange-400 font-bold">
                       {p[stat]}
                     </td>
