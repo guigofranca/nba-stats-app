@@ -60,7 +60,6 @@ export default function PlayerDetails() {
   useEffect(() => {
     const run = async () => {
       try {
-        // MUDANÇA AQUI: Corrigido o caminho para /data/
         const res = await fetch("/data/stats.json");
         const data = await res.json();
         const decoded = decodeURIComponent(name);

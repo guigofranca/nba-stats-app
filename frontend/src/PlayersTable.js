@@ -301,7 +301,7 @@ export default function PlayersTable() {
                 Página {currentPage} de {totalPages} • Mostrando {currentPlayers.length} de{" "}
                 {filteredPlayers.length} jogadores
                 <br />
-                Última atualização: {players[0]?.UPDATED_AT || "carregando..."}
+                Última atualização: {formatTimestamp(players[0]?.UPDATED_AT)}
             </p>
         </div>
     );
