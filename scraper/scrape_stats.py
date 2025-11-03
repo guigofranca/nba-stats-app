@@ -7,10 +7,8 @@ def scrape_data():
     print("Iniciando scraping de estatísticas da NBA...")
     
     # URL do Basketball-Reference para a temporada 2025-26
-    # (Usando 2026 como o ano final da temporada)
     URL = 'https://www.basketball-reference.com/leagues/NBA_2026_per_game.html'
     
-    # 1. FAZER O SCRAPING DA TABELA
     try:
         tables = pd.read_html(URL)
         df = tables[0]
@@ -22,59 +20,49 @@ def scrape_data():
         print("Possível causa: A temporada 2025-26 ainda não começou ou a URL mudou.")
         return
 
-    # 2. LIMPAR OS DADOS (COM A SUA CORREÇÃO)
     
-    # Passo 2a: Remove linhas de cabeçalho duplicadas (onde 'Player' == 'Player')
+    # caso tenha linha duplicada
     df_cleaned = df[df.Player != 'Player']
-    
-    # --- INÍCIO DA NOVA CORREÇÃO ---
-    # Passo 2b: Remove a linha "League Average" que você identificou
+    # web scraping pega a linha "league average", então aqui retira ela
     df_cleaned = df_cleaned[df_cleaned.Player != 'League Average']
-    
-    # Passo 2c: Remove quaisquer linhas que possam estar totalmente vazias (sem nome de jogador)
-    # Isso garante que apenas jogadores reais sejam processados
+    # caso tenha linha vazia
     df_cleaned = df_cleaned[df_cleaned.Player.notna()]
-    # --- FIM DA NOVA CORREÇÃO ---
-    
-    
-    # 3. SELECIONAR AS COLUNAS QUE QUEREMOS
+
+    # colunas que quero retirar (por jogo)
     column_map = {
         'Player': 'NAME',
         'Pos': 'POS',
         'Team': 'TEAM',
-        'G': 'GP',      # Games Played
-        'MP': 'MIN',    # Minutes Per Game
+        'G': 'GP',     
+        'MP': 'MIN',   
         'PTS': 'PTS',
-        'TRB': 'REB',   # Total Rebounds
+        'TRB': 'REB',  
         'AST': 'AST',
         'STL': 'STL',
         'BLK': 'BLK',
-        'TOV': 'TO'     # Turnovers
+        'TOV': 'TO'    
     }
     
-    # Pega apenas as colunas que estão no nosso mapa
     df_selected = df_cleaned[list(column_map.keys())]
     
-    # Renomeia as colunas
+    # renomear as colunas de acordo com o map que fiz acima
     df_final = df_selected.rename(columns=column_map)
     
-    # 4. CONVERTER DADOS E LIDAR COM VALORES AUSENTES
-    # Converte colunas de estatísticas para número
+    # trabalhar com números onde precisa
     stats_cols = ['GP', 'MIN', 'PTS', 'REB', 'AST', 'STL', 'BLK', 'TO']
     df_final[stats_cols] = df_final[stats_cols].apply(pd.to_numeric, errors='coerce')
     
-    # Substitui qualquer valor "NaN" (Not a Number) por 0
+    # caso tenha algum dado sendo not a number, renomear pelo numero 0
     df_final = df_final.fillna(0)
 
-    # 5. ADICIONAR TIMESTAMP (CARIMBO DE DATA/HORA)
-    # Usamos UTC para um padrão consistente no servidor
+    # timestamp padronizado
     now_utc = datetime.datetime.now(datetime.timezone.utc).isoformat()
     df_final['UPDATED_AT'] = now_utc
     
-    # 6. CONVERTER PARA O FORMATO JSON (LISTA DE DICIONÁRIOS)
+    # converter para json (dicionario)
     data_list = df_final.to_dict('records')
 
-    # 7. SALVAR O ARQUIVO JSON NO LOCAL CORRETO
+    # salvar arquivo
     script_dir = os.path.dirname(os.path.abspath(__file__))
     output_path = os.path.join(script_dir, '..', 'frontend', 'public', 'data', 'stats.json')
     
