@@ -2,23 +2,20 @@
 name: Atualização Diária - Estatísticas da NBA
 
 on:
-  workflow_dispatch: # Gatilho manual
+  workflow_dispatch:
   schedule:
-    - cron: '0 6,20 * * *' # Agendamento diário
+    - cron: '0 6,20 * * *'
 
 jobs:
   update-stats:
     runs-on: ubuntu-latest
     
-    # === A CORREÇÃO ESTÁ AQUI ===
-    # Dá permissão ao workflow para fazer 'git push'
     permissions:
       contents: write
     # ============================
 
     steps:
       - name: 1. Baixar o código (Checkout)
-        # O 'v4' já é o padrão, mas vamos deixar explícito
         uses: actions/checkout@v4 
 
       - name: 2. Configurar Python
@@ -32,9 +29,8 @@ jobs:
           pip install -r scraper/requirements.txt
       
       - name: 4. Rodar o script de scraping (Salva JSON)
-        run: python scraper/scrape_stats.py # Script agora SÓ salva o arquivo
+        run: python scraper/scrape_stats.py
 
-      # --- A ETAPA DE COMMIT E PUSH ---
       - name: 5. Fazer Commit e Push do JSON atualizado
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
