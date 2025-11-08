@@ -11,7 +11,7 @@
     "STL": 2.0,
     "BLK": 0.6,
     "TO": 4.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Tyrese Maxey",
@@ -25,49 +25,35 @@
     "STL": 1.1,
     "BLK": 1.0,
     "TO": 2.9,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Shai Gilgeous-Alexander",
-    "POS": "PG",
-    "TEAM": "OKC",
-    "GP": 9.0,
-    "MIN": 35.3,
-    "PTS": 33.3,
-    "REB": 5.4,
-    "AST": 6.3,
-    "STL": 0.9,
-    "BLK": 1.2,
-    "TO": 1.9,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Giannis Antetokounmpo",
     "POS": "PF",
     "TEAM": "MIL",
-    "GP": 7.0,
-    "MIN": 31.1,
-    "PTS": 32.3,
-    "REB": 12.6,
-    "AST": 6.3,
-    "STL": 0.9,
-    "BLK": 1.0,
-    "TO": 2.6,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "GP": 8.0,
+    "MIN": 32.0,
+    "PTS": 33.4,
+    "REB": 12.9,
+    "AST": 6.6,
+    "STL": 1.0,
+    "BLK": 1.1,
+    "TO": 2.8,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Donovan Mitchell",
-    "POS": "SG",
-    "TEAM": "CLE",
-    "GP": 7.0,
-    "MIN": 33.9,
-    "PTS": 31.9,
-    "REB": 2.6,
-    "AST": 5.0,
-    "STL": 1.3,
-    "BLK": 0.4,
-    "TO": 3.4,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "NAME": "Shai Gilgeous-Alexander",
+    "POS": "PG",
+    "TEAM": "OKC",
+    "GP": 10.0,
+    "MIN": 34.8,
+    "PTS": 33.0,
+    "REB": 5.0,
+    "AST": 6.0,
+    "STL": 1.0,
+    "BLK": 1.2,
+    "TO": 1.8,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Austin Reaves",
@@ -81,7 +67,7 @@
     "STL": 1.4,
     "BLK": 0.0,
     "TO": 3.4,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Bennedict Mathurin",
@@ -95,21 +81,21 @@
     "STL": 0.0,
     "BLK": 0.0,
     "TO": 2.5,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Lauri Markkanen",
-    "POS": "PF",
-    "TEAM": "UTA",
+    "NAME": "Donovan Mitchell",
+    "POS": "SG",
+    "TEAM": "CLE",
     "GP": 8.0,
-    "MIN": 37.1,
-    "PTS": 30.4,
-    "REB": 6.6,
-    "AST": 2.0,
-    "STL": 0.6,
+    "MIN": 32.8,
+    "PTS": 30.9,
+    "REB": 2.9,
+    "AST": 5.0,
+    "STL": 1.6,
     "BLK": 0.5,
-    "TO": 1.5,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "TO": 3.3,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Devin Booker",
@@ -123,7 +109,7 @@
     "STL": 0.8,
     "BLK": 0.3,
     "TO": 4.1,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Jalen Green",
@@ -137,7 +123,7 @@
     "STL": 2.0,
     "BLK": 0.0,
     "TO": 2.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Jalen Brunson",
@@ -151,35 +137,35 @@
     "STL": 1.1,
     "BLK": 0.0,
     "TO": 2.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Lauri Markkanen",
+    "POS": "PF",
+    "TEAM": "UTA",
+    "GP": 9.0,
+    "MIN": 35.3,
+    "PTS": 28.3,
+    "REB": 6.1,
+    "AST": 2.0,
+    "STL": 0.9,
+    "BLK": 0.4,
+    "TO": 1.3,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Jaylen Brown",
     "POS": "SF",
     "TEAM": "BOS",
-    "GP": 9.0,
-    "MIN": 31.1,
-    "PTS": 27.7,
-    "REB": 4.4,
-    "AST": 4.3,
+    "GP": 10.0,
+    "MIN": 31.7,
+    "PTS": 28.1,
+    "REB": 4.9,
+    "AST": 4.2,
     "STL": 0.8,
     "BLK": 0.3,
     "TO": 3.6,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Zach LaVine",
-    "POS": "SG",
-    "TEAM": "SAC",
-    "GP": 7.0,
-    "MIN": 37.0,
-    "PTS": 27.4,
-    "REB": 3.4,
-    "AST": 2.0,
-    "STL": 0.4,
-    "BLK": 0.1,
-    "TO": 2.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Stephen Curry",
@@ -193,21 +179,49 @@
     "STL": 1.5,
     "BLK": 0.6,
     "TO": 2.9,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Julius Randle",
     "POS": "PF",
     "TEAM": "MIN",
-    "GP": 8.0,
-    "MIN": 35.0,
-    "PTS": 26.8,
-    "REB": 6.9,
-    "AST": 5.6,
+    "GP": 9.0,
+    "MIN": 34.0,
+    "PTS": 25.9,
+    "REB": 7.2,
+    "AST": 6.3,
     "STL": 1.1,
-    "BLK": 0.4,
-    "TO": 2.5,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "BLK": 0.3,
+    "TO": 3.0,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Anthony Edwards",
+    "POS": "SG",
+    "TEAM": "MIN",
+    "GP": 5.0,
+    "MIN": 26.4,
+    "PTS": 25.8,
+    "REB": 3.8,
+    "AST": 2.4,
+    "STL": 0.6,
+    "BLK": 0.6,
+    "TO": 2.6,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Cade Cunningham",
+    "POS": "PG",
+    "TEAM": "DET",
+    "GP": 9.0,
+    "MIN": 35.8,
+    "PTS": 25.6,
+    "REB": 4.8,
+    "AST": 9.7,
+    "STL": 1.0,
+    "BLK": 0.8,
+    "TO": 3.7,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Pascal Siakam",
@@ -221,35 +235,35 @@
     "STL": 1.5,
     "BLK": 0.4,
     "TO": 2.9,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Zach LaVine",
+    "POS": "SG",
+    "TEAM": "SAC",
+    "GP": 8.0,
+    "MIN": 35.9,
+    "PTS": 25.1,
+    "REB": 3.3,
+    "AST": 2.0,
+    "STL": 0.5,
+    "BLK": 0.1,
+    "TO": 2.0,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Victor Wembanyama",
     "POS": "C",
     "TEAM": "SAS",
-    "GP": 7.0,
-    "MIN": 33.7,
-    "PTS": 25.6,
-    "REB": 12.9,
-    "AST": 3.1,
-    "STL": 1.3,
-    "BLK": 4.1,
-    "TO": 2.9,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Cade Cunningham",
-    "POS": "PG",
-    "TEAM": "DET",
     "GP": 8.0,
-    "MIN": 36.1,
-    "PTS": 24.5,
-    "REB": 5.3,
-    "AST": 9.6,
-    "STL": 1.0,
-    "BLK": 0.9,
-    "TO": 3.6,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "MIN": 34.1,
+    "PTS": 25.1,
+    "REB": 12.3,
+    "AST": 3.3,
+    "STL": 1.3,
+    "BLK": 3.9,
+    "TO": 3.0,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Deni Avdija",
@@ -263,7 +277,21 @@
     "STL": 0.8,
     "BLK": 0.9,
     "TO": 3.9,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Nikola Jokić",
+    "POS": "C",
+    "TEAM": "DEN",
+    "GP": 8.0,
+    "MIN": 34.3,
+    "PTS": 24.4,
+    "REB": 12.9,
+    "AST": 11.6,
+    "STL": 2.0,
+    "BLK": 0.9,
+    "TO": 2.5,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Kawhi Leonard",
@@ -277,35 +305,35 @@
     "STL": 2.5,
     "BLK": 0.7,
     "TO": 1.8,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Nikola Jokić",
-    "POS": "C",
-    "TEAM": "DEN",
-    "GP": 7.0,
-    "MIN": 35.1,
-    "PTS": 24.1,
-    "REB": 13.4,
-    "AST": 12.0,
-    "STL": 2.3,
-    "BLK": 0.9,
-    "TO": 2.7,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Kevin Durant",
     "POS": "SF",
     "TEAM": "HOU",
-    "GP": 7.0,
-    "MIN": 35.4,
+    "GP": 8.0,
+    "MIN": 35.5,
     "PTS": 24.0,
-    "REB": 5.3,
-    "AST": 2.7,
+    "REB": 4.8,
+    "AST": 2.6,
     "STL": 1.1,
-    "BLK": 1.0,
-    "TO": 2.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "BLK": 0.9,
+    "TO": 3.0,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Norman Powell",
+    "POS": "SG",
+    "TEAM": "MIA",
+    "GP": 6.0,
+    "MIN": 29.8,
+    "PTS": 23.5,
+    "REB": 5.0,
+    "AST": 2.3,
+    "STL": 1.3,
+    "BLK": 0.2,
+    "TO": 2.7,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "LaMelo Ball",
@@ -319,7 +347,7 @@
     "STL": 1.7,
     "BLK": 0.2,
     "TO": 3.7,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "James Harden",
@@ -333,63 +361,49 @@
     "STL": 1.3,
     "BLK": 0.1,
     "TO": 4.1,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Norman Powell",
-    "POS": "SG",
-    "TEAM": "MIA",
-    "GP": 5.0,
-    "MIN": 30.4,
-    "PTS": 23.2,
-    "REB": 5.2,
-    "AST": 2.2,
-    "STL": 1.6,
-    "BLK": 0.2,
-    "TO": 2.8,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Paolo Banchero",
-    "POS": "PF",
-    "TEAM": "ORL",
+    "NAME": "Michael Porter Jr.",
+    "POS": "SF",
+    "TEAM": "BRK",
     "GP": 8.0,
-    "MIN": 34.4,
+    "MIN": 32.3,
     "PTS": 23.1,
-    "REB": 9.5,
-    "AST": 4.5,
+    "REB": 8.0,
+    "AST": 2.9,
     "STL": 0.8,
-    "BLK": 1.1,
+    "BLK": 0.1,
     "TO": 2.6,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Josh Giddey",
+    "NAME": "Jamal Murray",
     "POS": "PG",
-    "TEAM": "CHI",
-    "GP": 7.0,
-    "MIN": 34.1,
-    "PTS": 23.1,
-    "REB": 10.0,
-    "AST": 9.1,
-    "STL": 0.9,
-    "BLK": 0.3,
-    "TO": 3.6,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "TEAM": "DEN",
+    "GP": 8.0,
+    "MIN": 33.1,
+    "PTS": 22.8,
+    "REB": 5.3,
+    "AST": 5.6,
+    "STL": 1.3,
+    "BLK": 0.4,
+    "TO": 2.1,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Anthony Edwards",
-    "POS": "SG",
-    "TEAM": "MIN",
-    "GP": 4.0,
-    "MIN": 26.5,
-    "PTS": 23.0,
-    "REB": 3.5,
-    "AST": 2.8,
-    "STL": 0.5,
-    "BLK": 0.5,
-    "TO": 2.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "NAME": "Alperen Şengün",
+    "POS": "C",
+    "TEAM": "HOU",
+    "GP": 8.0,
+    "MIN": 36.6,
+    "PTS": 22.8,
+    "REB": 9.8,
+    "AST": 7.4,
+    "STL": 1.5,
+    "BLK": 0.9,
+    "TO": 3.5,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Zion Williamson",
@@ -403,91 +417,63 @@
     "STL": 2.0,
     "BLK": 0.2,
     "TO": 3.4,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Jamal Murray",
-    "POS": "PG",
-    "TEAM": "DEN",
-    "GP": 7.0,
-    "MIN": 33.4,
-    "PTS": 22.7,
-    "REB": 5.4,
-    "AST": 5.3,
-    "STL": 1.1,
-    "BLK": 0.3,
-    "TO": 2.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Keyonte George",
-    "POS": "PG",
-    "TEAM": "UTA",
-    "GP": 8.0,
-    "MIN": 34.6,
-    "PTS": 22.6,
-    "REB": 3.5,
-    "AST": 7.9,
-    "STL": 0.9,
-    "BLK": 0.4,
-    "TO": 3.4,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Michael Porter Jr.",
-    "POS": "SF",
-    "TEAM": "BRK",
-    "GP": 7.0,
-    "MIN": 32.4,
-    "PTS": 22.4,
-    "REB": 8.4,
-    "AST": 3.0,
-    "STL": 0.7,
-    "BLK": 0.1,
-    "TO": 2.4,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Alperen Şengün",
-    "POS": "C",
-    "TEAM": "HOU",
-    "GP": 7.0,
-    "MIN": 36.7,
-    "PTS": 22.4,
-    "REB": 9.9,
-    "AST": 7.3,
-    "STL": 1.6,
-    "BLK": 0.9,
-    "TO": 3.6,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Franz Wagner",
     "POS": "SF",
     "TEAM": "ORL",
-    "GP": 8.0,
-    "MIN": 34.3,
-    "PTS": 22.0,
-    "REB": 5.5,
-    "AST": 3.3,
-    "STL": 1.1,
+    "GP": 9.0,
+    "MIN": 34.6,
+    "PTS": 22.6,
+    "REB": 5.6,
+    "AST": 3.6,
+    "STL": 1.0,
     "BLK": 0.3,
-    "TO": 2.1,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "TO": 2.2,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Miles Bridges",
-    "POS": "PF",
-    "TEAM": "CHO",
+    "NAME": "Josh Giddey",
+    "POS": "PG",
+    "TEAM": "CHI",
     "GP": 8.0,
-    "MIN": 33.6,
-    "PTS": 21.5,
-    "REB": 6.6,
-    "AST": 3.5,
-    "STL": 0.6,
+    "MIN": 34.3,
+    "PTS": 22.3,
+    "REB": 9.6,
+    "AST": 9.8,
+    "STL": 0.9,
     "BLK": 0.3,
-    "TO": 1.1,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "TO": 3.6,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Paolo Banchero",
+    "POS": "PF",
+    "TEAM": "ORL",
+    "GP": 9.0,
+    "MIN": 34.7,
+    "PTS": 22.2,
+    "REB": 9.4,
+    "AST": 4.4,
+    "STL": 0.8,
+    "BLK": 1.1,
+    "TO": 2.6,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Keyonte George",
+    "POS": "PG",
+    "TEAM": "UTA",
+    "GP": 9.0,
+    "MIN": 33.7,
+    "PTS": 22.1,
+    "REB": 3.6,
+    "AST": 7.2,
+    "STL": 0.9,
+    "BLK": 0.3,
+    "TO": 3.3,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Cam Thomas",
@@ -501,63 +487,21 @@
     "STL": 0.5,
     "BLK": 0.1,
     "TO": 2.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Brandon Ingram",
     "POS": "SF",
     "TEAM": "TOR",
-    "GP": 8.0,
-    "MIN": 32.6,
-    "PTS": 21.1,
+    "GP": 9.0,
+    "MIN": 32.8,
+    "PTS": 21.0,
     "REB": 6.1,
     "AST": 3.9,
     "STL": 0.9,
-    "BLK": 0.6,
-    "TO": 3.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "DeMar DeRozan",
-    "POS": "PF",
-    "TEAM": "SAC",
-    "GP": 8.0,
-    "MIN": 36.9,
-    "PTS": 21.0,
-    "REB": 3.9,
-    "AST": 3.9,
-    "STL": 1.1,
-    "BLK": 0.1,
-    "TO": 1.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Scottie Barnes",
-    "POS": "PF",
-    "TEAM": "TOR",
-    "GP": 8.0,
-    "MIN": 32.3,
-    "PTS": 20.9,
-    "REB": 6.9,
-    "AST": 5.1,
-    "STL": 1.6,
-    "BLK": 1.5,
-    "TO": 2.1,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "RJ Barrett",
-    "POS": "SF",
-    "TEAM": "TOR",
-    "GP": 8.0,
-    "MIN": 32.4,
-    "PTS": 20.8,
-    "REB": 4.9,
-    "AST": 3.5,
-    "STL": 1.3,
-    "BLK": 0.5,
-    "TO": 2.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "BLK": 0.7,
+    "TO": 2.9,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Anthony Davis",
@@ -571,49 +515,63 @@
     "STL": 1.6,
     "BLK": 1.2,
     "TO": 2.2,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Chet Holmgren",
+    "NAME": "Miles Bridges",
     "POS": "PF",
-    "TEAM": "OKC",
-    "GP": 5.0,
-    "MIN": 33.4,
+    "TEAM": "CHO",
+    "GP": 9.0,
+    "MIN": 34.4,
+    "PTS": 20.7,
+    "REB": 7.2,
+    "AST": 3.9,
+    "STL": 0.6,
+    "BLK": 0.3,
+    "TO": 1.4,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "DeMar DeRozan",
+    "POS": "PF",
+    "TEAM": "SAC",
+    "GP": 9.0,
+    "MIN": 35.9,
+    "PTS": 20.7,
+    "REB": 4.0,
+    "AST": 3.8,
+    "STL": 1.0,
+    "BLK": 0.1,
+    "TO": 1.0,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "RJ Barrett",
+    "POS": "SF",
+    "TEAM": "TOR",
+    "GP": 9.0,
+    "MIN": 32.4,
     "PTS": 20.6,
-    "REB": 9.2,
-    "AST": 2.0,
-    "STL": 1.2,
-    "BLK": 1.6,
-    "TO": 3.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "REB": 4.9,
+    "AST": 3.6,
+    "STL": 1.1,
+    "BLK": 0.4,
+    "TO": 1.9,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Jalen Johnson",
     "POS": "SF",
     "TEAM": "ATL",
-    "GP": 7.0,
-    "MIN": 31.9,
+    "GP": 8.0,
+    "MIN": 32.0,
     "PTS": 20.6,
-    "REB": 8.6,
-    "AST": 5.0,
+    "REB": 8.4,
+    "AST": 4.9,
     "STL": 1.4,
     "BLK": 0.3,
-    "TO": 2.4,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Aaron Gordon",
-    "POS": "PF",
-    "TEAM": "DEN",
-    "GP": 7.0,
-    "MIN": 30.3,
-    "PTS": 20.4,
-    "REB": 5.7,
-    "AST": 1.7,
-    "STL": 0.9,
-    "BLK": 0.1,
-    "TO": 1.9,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "TO": 2.9,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Jerami Grant",
@@ -627,21 +585,49 @@
     "STL": 1.4,
     "BLK": 0.6,
     "TO": 1.8,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Scottie Barnes",
+    "POS": "PF",
+    "TEAM": "TOR",
+    "GP": 9.0,
+    "MIN": 32.6,
+    "PTS": 20.1,
+    "REB": 7.2,
+    "AST": 5.0,
+    "STL": 1.6,
+    "BLK": 1.6,
+    "TO": 1.9,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Aaron Gordon",
+    "POS": "PF",
+    "TEAM": "DEN",
+    "GP": 8.0,
+    "MIN": 29.5,
+    "PTS": 20.1,
+    "REB": 5.4,
+    "AST": 1.6,
+    "STL": 0.9,
+    "BLK": 0.1,
+    "TO": 1.6,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Ja Morant",
     "POS": "PG",
     "TEAM": "MEM",
-    "GP": 8.0,
-    "MIN": 30.0,
-    "PTS": 20.0,
-    "REB": 3.8,
-    "AST": 7.3,
-    "STL": 1.0,
+    "GP": 9.0,
+    "MIN": 30.2,
+    "PTS": 20.1,
+    "REB": 3.9,
+    "AST": 7.9,
+    "STL": 1.2,
     "BLK": 0.1,
-    "TO": 3.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "TO": 3.7,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Bam Adebayo",
@@ -655,21 +641,7 @@
     "STL": 1.0,
     "BLK": 0.3,
     "TO": 2.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Evan Mobley",
-    "POS": "PF",
-    "TEAM": "CLE",
-    "GP": 8.0,
-    "MIN": 34.1,
-    "PTS": 19.8,
-    "REB": 8.4,
-    "AST": 4.3,
-    "STL": 1.9,
-    "BLK": 1.8,
-    "TO": 2.9,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Karl-Anthony Towns",
@@ -683,21 +655,21 @@
     "STL": 0.6,
     "BLK": 1.1,
     "TO": 3.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Stephon Castle",
-    "POS": "PG",
-    "TEAM": "SAS",
-    "GP": 7.0,
-    "MIN": 32.7,
-    "PTS": 19.4,
-    "REB": 6.0,
-    "AST": 5.7,
-    "STL": 2.0,
-    "BLK": 0.4,
-    "TO": 5.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "NAME": "Evan Mobley",
+    "POS": "PF",
+    "TEAM": "CLE",
+    "GP": 9.0,
+    "MIN": 33.4,
+    "PTS": 19.6,
+    "REB": 8.6,
+    "AST": 4.1,
+    "STL": 1.8,
+    "BLK": 1.7,
+    "TO": 2.7,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Dillon Brooks",
@@ -711,7 +683,7 @@
     "STL": 2.7,
     "BLK": 0.7,
     "TO": 2.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Kelly Oubre Jr.",
@@ -725,77 +697,91 @@
     "STL": 1.4,
     "BLK": 0.9,
     "TO": 1.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Nikola Vučević",
+    "NAME": "Jalen Duren",
     "POS": "C",
-    "TEAM": "CHI",
-    "GP": 7.0,
-    "MIN": 32.0,
-    "PTS": 19.3,
-    "REB": 12.0,
-    "AST": 3.7,
-    "STL": 0.7,
-    "BLK": 0.4,
-    "TO": 1.9,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Jimmy Butler",
-    "POS": "SF",
-    "TEAM": "GSW",
-    "GP": 8.0,
-    "MIN": 31.1,
-    "PTS": 19.0,
-    "REB": 5.4,
-    "AST": 4.5,
-    "STL": 1.1,
-    "BLK": 0.4,
-    "TO": 1.6,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "TEAM": "DET",
+    "GP": 9.0,
+    "MIN": 26.8,
+    "PTS": 19.2,
+    "REB": 11.3,
+    "AST": 1.6,
+    "STL": 0.9,
+    "BLK": 1.2,
+    "TO": 2.1,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Alex Sarr",
     "POS": "C",
     "TEAM": "WAS",
-    "GP": 8.0,
-    "MIN": 27.9,
-    "PTS": 19.0,
-    "REB": 8.4,
+    "GP": 9.0,
+    "MIN": 28.1,
+    "PTS": 19.1,
+    "REB": 7.9,
     "AST": 3.9,
-    "STL": 0.6,
-    "BLK": 2.3,
-    "TO": 2.6,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "STL": 0.7,
+    "BLK": 2.4,
+    "TO": 2.7,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Amen Thompson",
-    "POS": "SF",
-    "TEAM": "HOU",
-    "GP": 7.0,
-    "MIN": 34.9,
-    "PTS": 18.6,
-    "REB": 6.4,
-    "AST": 5.7,
-    "STL": 1.0,
-    "BLK": 0.3,
-    "TO": 2.6,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "De'Andre Hunter",
-    "POS": "SF",
-    "TEAM": "CLE",
-    "GP": 5.0,
-    "MIN": 29.2,
-    "PTS": 18.4,
-    "REB": 5.6,
-    "AST": 3.0,
+    "NAME": "Nikola Vučević",
+    "POS": "C",
+    "TEAM": "CHI",
+    "GP": 8.0,
+    "MIN": 31.9,
+    "PTS": 18.9,
+    "REB": 11.3,
+    "AST": 3.4,
     "STL": 0.8,
-    "BLK": 0.2,
-    "TO": 1.8,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "BLK": 0.4,
+    "TO": 1.9,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Stephon Castle",
+    "POS": "PG",
+    "TEAM": "SAS",
+    "GP": 8.0,
+    "MIN": 33.3,
+    "PTS": 18.8,
+    "REB": 6.0,
+    "AST": 6.6,
+    "STL": 2.0,
+    "BLK": 0.5,
+    "TO": 5.0,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Chet Holmgren",
+    "POS": "PF",
+    "TEAM": "OKC",
+    "GP": 6.0,
+    "MIN": 31.3,
+    "PTS": 18.8,
+    "REB": 8.8,
+    "AST": 1.8,
+    "STL": 1.0,
+    "BLK": 1.5,
+    "TO": 2.8,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Jimmy Butler",
+    "POS": "SF",
+    "TEAM": "GSW",
+    "GP": 9.0,
+    "MIN": 31.0,
+    "PTS": 18.7,
+    "REB": 5.1,
+    "AST": 4.3,
+    "STL": 1.1,
+    "BLK": 0.3,
+    "TO": 1.4,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Quentin Grimes",
@@ -809,7 +795,21 @@
     "STL": 1.1,
     "BLK": 0.5,
     "TO": 3.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Jaden McDaniels",
+    "POS": "PF",
+    "TEAM": "MIN",
+    "GP": 9.0,
+    "MIN": 32.0,
+    "PTS": 18.3,
+    "REB": 4.4,
+    "AST": 2.0,
+    "STL": 0.9,
+    "BLK": 1.4,
+    "TO": 1.9,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "OG Anunoby",
@@ -823,7 +823,7 @@
     "STL": 2.4,
     "BLK": 0.8,
     "TO": 1.8,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Shaedon Sharpe",
@@ -837,35 +837,21 @@
     "STL": 1.8,
     "BLK": 0.3,
     "TO": 2.9,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Jalen Duren",
-    "POS": "C",
-    "TEAM": "DET",
+    "NAME": "Amen Thompson",
+    "POS": "SF",
+    "TEAM": "HOU",
     "GP": 8.0,
-    "MIN": 26.4,
-    "PTS": 17.9,
-    "REB": 11.4,
-    "AST": 1.8,
-    "STL": 0.6,
-    "BLK": 1.4,
-    "TO": 2.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Jaden McDaniels",
-    "POS": "PF",
-    "TEAM": "MIN",
-    "GP": 8.0,
-    "MIN": 32.5,
-    "PTS": 17.9,
-    "REB": 4.1,
-    "AST": 2.1,
-    "STL": 0.6,
-    "BLK": 1.4,
-    "TO": 1.9,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "MIN": 35.4,
+    "PTS": 18.0,
+    "REB": 6.5,
+    "AST": 5.4,
+    "STL": 1.0,
+    "BLK": 0.4,
+    "TO": 2.6,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Joel Embiid",
@@ -879,7 +865,7 @@
     "STL": 1.0,
     "BLK": 1.6,
     "TO": 2.8,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Trae Young",
@@ -893,21 +879,21 @@
     "STL": 0.8,
     "BLK": 0.2,
     "TO": 2.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Kristaps Porziņģis",
-    "POS": "C",
+    "NAME": "Nickeil Alexander-Walker",
+    "POS": "SG",
     "TEAM": "ATL",
-    "GP": 6.0,
-    "MIN": 25.5,
-    "PTS": 17.7,
-    "REB": 6.2,
-    "AST": 3.3,
-    "STL": 0.8,
+    "GP": 9.0,
+    "MIN": 30.9,
+    "PTS": 17.6,
+    "REB": 2.6,
+    "AST": 3.2,
+    "STL": 1.0,
     "BLK": 0.8,
-    "TO": 1.5,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "TO": 2.6,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "VJ Edgecombe",
@@ -921,7 +907,35 @@
     "STL": 1.4,
     "BLK": 0.3,
     "TO": 1.9,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Kristaps Porziņģis",
+    "POS": "C",
+    "TEAM": "ATL",
+    "GP": 7.0,
+    "MIN": 26.1,
+    "PTS": 17.6,
+    "REB": 6.3,
+    "AST": 3.3,
+    "STL": 0.7,
+    "BLK": 1.3,
+    "TO": 1.3,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Andrew Wiggins",
+    "POS": "SF",
+    "TEAM": "MIA",
+    "GP": 9.0,
+    "MIN": 32.1,
+    "PTS": 17.6,
+    "REB": 4.8,
+    "AST": 2.4,
+    "STL": 1.3,
+    "BLK": 0.9,
+    "TO": 2.0,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Deandre Ayton",
@@ -935,7 +949,7 @@
     "STL": 0.5,
     "BLK": 1.3,
     "TO": 2.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Jrue Holiday",
@@ -949,49 +963,21 @@
     "STL": 1.4,
     "BLK": 0.3,
     "TO": 3.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Jaime Jaquez Jr.",
     "POS": "SF",
     "TEAM": "MIA",
-    "GP": 8.0,
-    "MIN": 29.1,
+    "GP": 9.0,
+    "MIN": 29.6,
     "PTS": 17.4,
-    "REB": 6.3,
-    "AST": 4.3,
-    "STL": 0.9,
-    "BLK": 0.0,
+    "REB": 6.4,
+    "AST": 4.8,
+    "STL": 0.8,
+    "BLK": 0.2,
     "TO": 1.9,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Nickeil Alexander-Walker",
-    "POS": "SG",
-    "TEAM": "ATL",
-    "GP": 8.0,
-    "MIN": 31.0,
-    "PTS": 17.3,
-    "REB": 2.6,
-    "AST": 3.3,
-    "STL": 1.1,
-    "BLK": 0.9,
-    "TO": 2.5,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Isaiah Joe",
-    "POS": "SG",
-    "TEAM": "OKC",
-    "GP": 4.0,
-    "MIN": 24.5,
-    "PTS": 17.3,
-    "REB": 3.5,
-    "AST": 1.0,
-    "STL": 0.5,
-    "BLK": 0.0,
-    "TO": 0.8,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Jordan Poole",
@@ -1005,49 +991,21 @@
     "STL": 0.3,
     "BLK": 0.3,
     "TO": 2.1,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Jonathan Kuminga",
-    "POS": "PF",
-    "TEAM": "GSW",
-    "GP": 9.0,
-    "MIN": 30.8,
-    "PTS": 17.2,
-    "REB": 7.1,
-    "AST": 3.1,
-    "STL": 0.6,
-    "BLK": 0.2,
-    "TO": 2.9,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Jaren Jackson Jr.",
     "POS": "C",
     "TEAM": "MEM",
-    "GP": 9.0,
-    "MIN": 28.8,
+    "GP": 10.0,
+    "MIN": 28.7,
     "PTS": 17.0,
-    "REB": 5.4,
-    "AST": 1.3,
-    "STL": 0.7,
-    "BLK": 1.7,
-    "TO": 1.9,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Andrew Wiggins",
-    "POS": "SF",
-    "TEAM": "MIA",
-    "GP": 8.0,
-    "MIN": 31.5,
-    "PTS": 17.0,
-    "REB": 4.9,
-    "AST": 2.3,
-    "STL": 1.4,
-    "BLK": 0.9,
-    "TO": 2.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "REB": 5.3,
+    "AST": 1.2,
+    "STL": 0.6,
+    "BLK": 1.5,
+    "TO": 1.8,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Kyshawn George",
@@ -1061,7 +1019,21 @@
     "STL": 1.0,
     "BLK": 1.1,
     "TO": 3.4,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Ajay Mitchell",
+    "POS": "SG",
+    "TEAM": "OKC",
+    "GP": 10.0,
+    "MIN": 27.6,
+    "PTS": 16.8,
+    "REB": 3.8,
+    "AST": 4.1,
+    "STL": 1.7,
+    "BLK": 0.2,
+    "TO": 1.8,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Rui Hachimura",
@@ -1075,21 +1047,35 @@
     "STL": 0.6,
     "BLK": 0.3,
     "TO": 1.4,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Ajay Mitchell",
-    "POS": "SG",
-    "TEAM": "OKC",
+    "NAME": "De'Andre Hunter",
+    "POS": "SF",
+    "TEAM": "CLE",
+    "GP": 6.0,
+    "MIN": 27.8,
+    "PTS": 16.7,
+    "REB": 5.5,
+    "AST": 2.8,
+    "STL": 0.8,
+    "BLK": 0.2,
+    "TO": 1.8,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Ryan Rollins",
+    "POS": "PG",
+    "TEAM": "MIL",
     "GP": 9.0,
-    "MIN": 27.1,
+    "MIN": 31.0,
     "PTS": 16.7,
     "REB": 3.7,
-    "AST": 3.4,
-    "STL": 1.6,
-    "BLK": 0.1,
-    "TO": 1.8,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "AST": 5.4,
+    "STL": 2.0,
+    "BLK": 0.2,
+    "TO": 2.6,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Grayson Allen",
@@ -1103,63 +1089,91 @@
     "STL": 1.4,
     "BLK": 0.3,
     "TO": 2.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Sam Merrill",
+    "NAME": "Isaiah Joe",
     "POS": "SG",
-    "TEAM": "CLE",
+    "TEAM": "OKC",
     "GP": 5.0,
-    "MIN": 26.0,
+    "MIN": 25.2,
     "PTS": 16.6,
-    "REB": 1.6,
-    "AST": 1.6,
+    "REB": 4.0,
+    "AST": 1.0,
     "STL": 0.6,
-    "BLK": 0.2,
-    "TO": 1.2,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "BLK": 0.0,
+    "TO": 1.0,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Payton Pritchard",
+    "POS": "PG",
+    "TEAM": "BOS",
+    "GP": 10.0,
+    "MIN": 31.9,
+    "PTS": 16.5,
+    "REB": 3.8,
+    "AST": 5.1,
+    "STL": 1.0,
+    "BLK": 0.0,
+    "TO": 1.4,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Kon Knueppel",
+    "POS": "SF",
+    "TEAM": "CHO",
+    "GP": 9.0,
+    "MIN": 31.6,
+    "PTS": 16.4,
+    "REB": 6.0,
+    "AST": 2.3,
+    "STL": 0.6,
+    "BLK": 0.1,
+    "TO": 2.1,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Malik Monk",
     "POS": "SG",
     "TEAM": "SAC",
-    "GP": 6.0,
-    "MIN": 25.2,
-    "PTS": 16.5,
-    "REB": 1.7,
-    "AST": 2.3,
+    "GP": 7.0,
+    "MIN": 25.0,
+    "PTS": 16.3,
+    "REB": 1.9,
+    "AST": 2.1,
     "STL": 1.0,
     "BLK": 0.7,
-    "TO": 1.2,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "TO": 1.1,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Ryan Rollins",
-    "POS": "PG",
-    "TEAM": "MIL",
-    "GP": 8.0,
-    "MIN": 31.0,
-    "PTS": 16.3,
-    "REB": 3.4,
-    "AST": 5.6,
-    "STL": 1.9,
-    "BLK": 0.1,
-    "TO": 2.8,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Ayo Dosunmu",
+    "NAME": "Sam Merrill",
     "POS": "SG",
-    "TEAM": "CHI",
-    "GP": 5.0,
-    "MIN": 26.2,
+    "TEAM": "CLE",
+    "GP": 6.0,
+    "MIN": 24.7,
     "PTS": 16.2,
-    "REB": 3.0,
-    "AST": 3.2,
-    "STL": 0.2,
-    "BLK": 0.0,
-    "TO": 0.6,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "REB": 1.7,
+    "AST": 1.7,
+    "STL": 0.7,
+    "BLK": 0.2,
+    "TO": 1.0,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Jonathan Kuminga",
+    "POS": "PF",
+    "TEAM": "GSW",
+    "GP": 10.0,
+    "MIN": 30.4,
+    "PTS": 16.1,
+    "REB": 7.1,
+    "AST": 3.1,
+    "STL": 0.5,
+    "BLK": 0.3,
+    "TO": 2.8,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Collin Sexton",
@@ -1173,7 +1187,7 @@
     "STL": 0.6,
     "BLK": 0.0,
     "TO": 3.1,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Mikal Bridges",
@@ -1187,133 +1201,91 @@
     "STL": 1.4,
     "BLK": 1.1,
     "TO": 1.1,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Jeremy Sochan",
-    "POS": "PF",
-    "TEAM": "SAS",
-    "GP": 1.0,
-    "MIN": 23.0,
-    "PTS": 16.0,
-    "REB": 2.0,
-    "AST": 0.0,
-    "STL": 1.0,
-    "BLK": 0.0,
-    "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Donte DiVincenzo",
-    "POS": "SG",
-    "TEAM": "MIN",
-    "GP": 8.0,
-    "MIN": 31.0,
-    "PTS": 15.9,
-    "REB": 3.5,
-    "AST": 4.0,
-    "STL": 1.1,
-    "BLK": 0.4,
-    "TO": 1.6,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "P.J. Washington",
-    "POS": "PF",
-    "TEAM": "DAL",
-    "GP": 8.0,
-    "MIN": 34.6,
-    "PTS": 15.8,
-    "REB": 8.6,
-    "AST": 2.6,
-    "STL": 0.9,
-    "BLK": 1.4,
-    "TO": 3.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Jarrett Allen",
-    "POS": "C",
-    "TEAM": "CLE",
-    "GP": 6.0,
-    "MIN": 27.5,
-    "PTS": 15.7,
-    "REB": 7.5,
-    "AST": 1.7,
-    "STL": 1.7,
-    "BLK": 0.8,
-    "TO": 1.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Payton Pritchard",
-    "POS": "PG",
-    "TEAM": "BOS",
-    "GP": 9.0,
-    "MIN": 31.9,
-    "PTS": 15.3,
-    "REB": 4.0,
-    "AST": 5.2,
-    "STL": 1.0,
-    "BLK": 0.0,
-    "TO": 1.2,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Dennis Schröder",
-    "POS": "PG",
-    "TEAM": "SAC",
-    "GP": 8.0,
-    "MIN": 32.8,
-    "PTS": 15.3,
-    "REB": 3.9,
-    "AST": 6.9,
-    "STL": 1.4,
-    "BLK": 0.4,
-    "TO": 2.6,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Jabari Smith Jr.",
-    "POS": "PF",
-    "TEAM": "HOU",
-    "GP": 6.0,
-    "MIN": 34.2,
-    "PTS": 15.2,
-    "REB": 5.0,
-    "AST": 1.5,
-    "STL": 1.2,
-    "BLK": 1.0,
-    "TO": 1.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Russell Westbrook",
     "POS": "SF",
     "TEAM": "SAC",
-    "GP": 8.0,
-    "MIN": 28.6,
-    "PTS": 15.0,
-    "REB": 7.1,
-    "AST": 5.6,
-    "STL": 1.4,
+    "GP": 9.0,
+    "MIN": 29.3,
+    "PTS": 16.0,
+    "REB": 7.0,
+    "AST": 6.0,
+    "STL": 1.2,
     "BLK": 0.1,
-    "TO": 2.5,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "TO": 3.0,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Jarrett Allen",
+    "POS": "C",
+    "TEAM": "CLE",
+    "GP": 7.0,
+    "MIN": 27.3,
+    "PTS": 15.7,
+    "REB": 8.4,
+    "AST": 1.9,
+    "STL": 1.7,
+    "BLK": 0.9,
+    "TO": 1.3,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "P.J. Washington",
+    "POS": "PF",
+    "TEAM": "DAL",
+    "GP": 9.0,
+    "MIN": 33.6,
+    "PTS": 15.6,
+    "REB": 8.3,
+    "AST": 2.4,
+    "STL": 0.9,
+    "BLK": 1.3,
+    "TO": 2.9,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Matas Buzelis",
     "POS": "PF",
     "TEAM": "CHI",
-    "GP": 7.0,
-    "MIN": 29.0,
-    "PTS": 14.9,
-    "REB": 4.6,
-    "AST": 1.1,
-    "STL": 0.9,
+    "GP": 8.0,
+    "MIN": 29.9,
+    "PTS": 15.5,
+    "REB": 5.0,
+    "AST": 1.4,
+    "STL": 1.0,
     "BLK": 1.0,
-    "TO": 1.9,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "TO": 2.0,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Cedric Coward",
+    "POS": "SG",
+    "TEAM": "MEM",
+    "GP": 10.0,
+    "MIN": 26.5,
+    "PTS": 15.0,
+    "REB": 5.8,
+    "AST": 2.8,
+    "STL": 1.0,
+    "BLK": 0.3,
+    "TO": 1.1,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Nic Claxton",
+    "POS": "C",
+    "TEAM": "BRK",
+    "GP": 9.0,
+    "MIN": 28.9,
+    "PTS": 14.9,
+    "REB": 7.2,
+    "AST": 3.6,
+    "STL": 1.0,
+    "BLK": 0.9,
+    "TO": 1.2,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Trey Murphy III",
@@ -1327,21 +1299,21 @@
     "STL": 1.3,
     "BLK": 0.3,
     "TO": 1.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Kon Knueppel",
-    "POS": "SF",
-    "TEAM": "CHO",
-    "GP": 8.0,
-    "MIN": 30.4,
+    "NAME": "Desmond Bane",
+    "POS": "SG",
+    "TEAM": "ORL",
+    "GP": 9.0,
+    "MIN": 29.9,
     "PTS": 14.8,
-    "REB": 5.8,
-    "AST": 2.3,
-    "STL": 0.5,
-    "BLK": 0.0,
-    "TO": 2.1,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "REB": 4.1,
+    "AST": 3.9,
+    "STL": 0.6,
+    "BLK": 0.4,
+    "TO": 2.2,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Aaron Nesmith",
@@ -1355,7 +1327,21 @@
     "STL": 0.4,
     "BLK": 0.3,
     "TO": 0.9,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Devin Vassell",
+    "POS": "SG",
+    "TEAM": "SAS",
+    "GP": 8.0,
+    "MIN": 34.4,
+    "PTS": 14.8,
+    "REB": 4.0,
+    "AST": 2.6,
+    "STL": 1.3,
+    "BLK": 0.1,
+    "TO": 1.5,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Aaron Wiggins",
@@ -1369,35 +1355,21 @@
     "STL": 0.4,
     "BLK": 0.8,
     "TO": 1.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Devin Vassell",
+    "NAME": "Ayo Dosunmu",
     "POS": "SG",
-    "TEAM": "SAS",
-    "GP": 7.0,
-    "MIN": 34.6,
+    "TEAM": "CHI",
+    "GP": 6.0,
+    "MIN": 25.2,
     "PTS": 14.7,
-    "REB": 4.1,
-    "AST": 2.6,
-    "STL": 0.9,
-    "BLK": 0.1,
-    "TO": 1.6,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Nic Claxton",
-    "POS": "C",
-    "TEAM": "BRK",
-    "GP": 8.0,
-    "MIN": 28.8,
-    "PTS": 14.6,
-    "REB": 7.1,
-    "AST": 3.8,
-    "STL": 1.0,
-    "BLK": 0.9,
-    "TO": 1.1,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "REB": 2.5,
+    "AST": 3.2,
+    "STL": 0.5,
+    "BLK": 0.0,
+    "TO": 0.7,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Brandon Miller",
@@ -1411,7 +1383,7 @@
     "STL": 0.5,
     "BLK": 0.5,
     "TO": 1.5,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Domantas Sabonis",
@@ -1425,21 +1397,21 @@
     "STL": 1.2,
     "BLK": 0.2,
     "TO": 2.7,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Cooper Flagg",
-    "POS": "PG",
-    "TEAM": "DAL",
-    "GP": 8.0,
-    "MIN": 33.0,
+    "NAME": "Donte DiVincenzo",
+    "POS": "SG",
+    "TEAM": "MIN",
+    "GP": 9.0,
+    "MIN": 29.8,
     "PTS": 14.4,
-    "REB": 6.6,
-    "AST": 2.8,
+    "REB": 3.8,
+    "AST": 3.8,
     "STL": 1.1,
-    "BLK": 0.6,
-    "TO": 2.1,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "BLK": 0.4,
+    "TO": 1.6,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Walker Kessler",
@@ -1453,7 +1425,7 @@
     "STL": 1.4,
     "BLK": 1.8,
     "TO": 3.2,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Ivica Zubac",
@@ -1467,49 +1439,49 @@
     "STL": 0.6,
     "BLK": 1.0,
     "TO": 2.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Cedric Coward",
-    "POS": "SG",
-    "TEAM": "MEM",
-    "GP": 9.0,
-    "MIN": 26.3,
-    "PTS": 14.3,
-    "REB": 5.4,
-    "AST": 2.7,
-    "STL": 1.1,
-    "BLK": 0.3,
-    "TO": 1.2,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Anfernee Simons",
-    "POS": "SG",
-    "TEAM": "BOS",
-    "GP": 9.0,
-    "MIN": 26.9,
-    "PTS": 14.3,
-    "REB": 2.0,
-    "AST": 1.6,
-    "STL": 0.7,
-    "BLK": 0.2,
-    "TO": 1.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Derrick White",
     "POS": "SG",
     "TEAM": "BOS",
-    "GP": 9.0,
-    "MIN": 31.9,
-    "PTS": 14.1,
-    "REB": 3.7,
-    "AST": 4.7,
-    "STL": 1.8,
+    "GP": 10.0,
+    "MIN": 32.4,
+    "PTS": 14.3,
+    "REB": 3.5,
+    "AST": 5.2,
+    "STL": 1.9,
     "BLK": 1.2,
     "TO": 1.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Cooper Flagg",
+    "POS": "PG",
+    "TEAM": "DAL",
+    "GP": 9.0,
+    "MIN": 32.3,
+    "PTS": 14.1,
+    "REB": 6.6,
+    "AST": 2.7,
+    "STL": 1.1,
+    "BLK": 0.7,
+    "TO": 2.1,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Darius Garland",
+    "POS": "PG",
+    "TEAM": "CLE",
+    "GP": 2.0,
+    "MIN": 27.0,
+    "PTS": 14.0,
+    "REB": 2.0,
+    "AST": 6.5,
+    "STL": 0.5,
+    "BLK": 0.0,
+    "TO": 2.5,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Dylan Harper",
@@ -1523,7 +1495,21 @@
     "STL": 0.7,
     "BLK": 0.0,
     "TO": 1.8,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Anfernee Simons",
+    "POS": "SG",
+    "TEAM": "BOS",
+    "GP": 10.0,
+    "MIN": 26.0,
+    "PTS": 14.0,
+    "REB": 2.0,
+    "AST": 1.6,
+    "STL": 0.6,
+    "BLK": 0.3,
+    "TO": 1.0,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Obi Toppin",
@@ -1537,49 +1523,63 @@
     "STL": 1.0,
     "BLK": 0.0,
     "TO": 2.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Desmond Bane",
-    "POS": "SG",
-    "TEAM": "ORL",
-    "GP": 8.0,
-    "MIN": 29.0,
-    "PTS": 13.9,
-    "REB": 3.9,
-    "AST": 3.5,
-    "STL": 0.5,
-    "BLK": 0.3,
-    "TO": 2.4,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Onyeka Okongwu",
-    "POS": "C",
-    "TEAM": "ATL",
-    "GP": 8.0,
-    "MIN": 29.1,
-    "PTS": 13.9,
-    "REB": 8.4,
-    "AST": 2.4,
-    "STL": 0.5,
-    "BLK": 1.0,
-    "TO": 1.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Ausar Thompson",
     "POS": "SF",
     "TEAM": "DET",
-    "GP": 8.0,
-    "MIN": 27.9,
+    "GP": 9.0,
+    "MIN": 28.6,
     "PTS": 13.9,
-    "REB": 6.9,
+    "REB": 6.8,
     "AST": 3.3,
-    "STL": 1.5,
+    "STL": 1.7,
     "BLK": 0.8,
-    "TO": 1.4,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "TO": 1.3,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Dennis Schröder",
+    "POS": "PG",
+    "TEAM": "SAC",
+    "GP": 9.0,
+    "MIN": 31.9,
+    "PTS": 13.8,
+    "REB": 3.7,
+    "AST": 7.0,
+    "STL": 1.2,
+    "BLK": 0.3,
+    "TO": 2.3,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Jabari Smith Jr.",
+    "POS": "PF",
+    "TEAM": "HOU",
+    "GP": 7.0,
+    "MIN": 33.1,
+    "PTS": 13.7,
+    "REB": 5.4,
+    "AST": 1.6,
+    "STL": 1.0,
+    "BLK": 1.0,
+    "TO": 1.0,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Immanuel Quickley",
+    "POS": "PG",
+    "TEAM": "TOR",
+    "GP": 9.0,
+    "MIN": 30.9,
+    "PTS": 13.6,
+    "REB": 4.2,
+    "AST": 6.3,
+    "STL": 1.6,
+    "BLK": 0.0,
+    "TO": 1.8,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Tobias Harris",
@@ -1593,7 +1593,7 @@
     "STL": 0.8,
     "BLK": 0.2,
     "TO": 1.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Jeremiah Fears",
@@ -1607,91 +1607,77 @@
     "STL": 1.4,
     "BLK": 0.0,
     "TO": 2.1,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Moses Moody",
+    "NAME": "Max Christie",
     "POS": "SG",
-    "TEAM": "GSW",
-    "GP": 7.0,
-    "MIN": 23.4,
-    "PTS": 13.0,
-    "REB": 2.9,
-    "AST": 1.6,
-    "STL": 0.9,
-    "BLK": 1.1,
-    "TO": 1.4,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Immanuel Quickley",
-    "POS": "PG",
-    "TEAM": "TOR",
-    "GP": 8.0,
-    "MIN": 30.5,
-    "PTS": 13.0,
-    "REB": 4.1,
-    "AST": 6.4,
-    "STL": 1.4,
-    "BLK": 0.0,
-    "TO": 1.8,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "D'Angelo Russell",
-    "POS": "PG",
     "TEAM": "DAL",
-    "GP": 8.0,
-    "MIN": 22.8,
-    "PTS": 13.0,
-    "REB": 3.0,
-    "AST": 5.6,
-    "STL": 0.5,
+    "GP": 9.0,
+    "MIN": 29.8,
+    "PTS": 13.2,
+    "REB": 2.3,
+    "AST": 2.4,
+    "STL": 0.2,
     "BLK": 0.3,
-    "TO": 2.1,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "TO": 1.1,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "CJ McCollum",
+    "POS": "SG",
+    "TEAM": "WAS",
+    "GP": 9.0,
+    "MIN": 27.3,
+    "PTS": 13.1,
+    "REB": 2.9,
+    "AST": 3.4,
+    "STL": 0.6,
+    "BLK": 0.0,
+    "TO": 1.2,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Onyeka Okongwu",
+    "POS": "C",
+    "TEAM": "ATL",
+    "GP": 9.0,
+    "MIN": 28.8,
+    "PTS": 13.1,
+    "REB": 8.7,
+    "AST": 2.1,
+    "STL": 0.6,
+    "BLK": 0.9,
+    "TO": 1.1,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Isaiah Hartenstein",
+    "POS": "C",
+    "TEAM": "OKC",
+    "GP": 10.0,
+    "MIN": 30.0,
+    "PTS": 12.9,
+    "REB": 11.7,
+    "AST": 3.4,
+    "STL": 1.6,
+    "BLK": 0.6,
+    "TO": 2.0,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Kevin Huerter",
     "POS": "SF",
     "TEAM": "CHI",
-    "GP": 7.0,
-    "MIN": 24.9,
-    "PTS": 12.9,
-    "REB": 4.3,
-    "AST": 2.6,
-    "STL": 0.9,
-    "BLK": 1.1,
-    "TO": 1.7,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Keldon Johnson",
-    "POS": "SF",
-    "TEAM": "SAS",
-    "GP": 7.0,
-    "MIN": 24.1,
-    "PTS": 12.9,
-    "REB": 4.7,
-    "AST": 1.1,
-    "STL": 0.6,
-    "BLK": 0.0,
-    "TO": 0.6,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Kyle Kuzma",
-    "POS": "PF",
-    "TEAM": "MIL",
-    "GP": 7.0,
-    "MIN": 23.0,
+    "GP": 8.0,
+    "MIN": 24.8,
     "PTS": 12.9,
     "REB": 4.1,
-    "AST": 1.3,
-    "STL": 0.6,
-    "BLK": 0.6,
-    "TO": 1.7,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "AST": 2.9,
+    "STL": 0.8,
+    "BLK": 1.1,
+    "TO": 1.9,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Royce O'Neale",
@@ -1705,21 +1691,7 @@
     "STL": 1.4,
     "BLK": 0.1,
     "TO": 1.8,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Max Christie",
-    "POS": "SG",
-    "TEAM": "DAL",
-    "GP": 8.0,
-    "MIN": 30.0,
-    "PTS": 12.6,
-    "REB": 2.5,
-    "AST": 2.6,
-    "STL": 0.3,
-    "BLK": 0.3,
-    "TO": 1.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "John Collins",
@@ -1733,49 +1705,49 @@
     "STL": 1.0,
     "BLK": 0.5,
     "TO": 2.6,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Brandin Podziemski",
-    "POS": "SG",
-    "TEAM": "GSW",
-    "GP": 9.0,
-    "MIN": 29.3,
-    "PTS": 12.6,
-    "REB": 4.9,
-    "AST": 3.6,
-    "STL": 1.2,
-    "BLK": 0.2,
-    "TO": 1.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Gary Trent Jr.",
-    "POS": "SG",
+    "NAME": "Kyle Kuzma",
+    "POS": "PF",
     "TEAM": "MIL",
     "GP": 8.0,
-    "MIN": 28.8,
+    "MIN": 23.6,
     "PTS": 12.6,
-    "REB": 1.9,
-    "AST": 2.8,
-    "STL": 1.3,
-    "BLK": 0.0,
-    "TO": 0.8,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "REB": 4.6,
+    "AST": 1.3,
+    "STL": 0.5,
+    "BLK": 0.6,
+    "TO": 1.5,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "D'Angelo Russell",
+    "POS": "PG",
+    "TEAM": "DAL",
+    "GP": 9.0,
+    "MIN": 22.1,
+    "PTS": 12.6,
+    "REB": 3.0,
+    "AST": 5.6,
+    "STL": 0.4,
+    "BLK": 0.2,
+    "TO": 2.2,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Christian Braun",
     "POS": "SG",
     "TEAM": "DEN",
-    "GP": 7.0,
+    "GP": 8.0,
     "MIN": 31.6,
     "PTS": 12.4,
-    "REB": 4.4,
-    "AST": 3.1,
+    "REB": 4.8,
+    "AST": 3.3,
     "STL": 0.9,
     "BLK": 0.4,
-    "TO": 1.1,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "TO": 1.4,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Toumani Camara",
@@ -1789,35 +1761,49 @@
     "STL": 1.3,
     "BLK": 0.5,
     "TO": 1.5,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Tari Eason",
-    "POS": "PF",
-    "TEAM": "HOU",
-    "GP": 7.0,
-    "MIN": 25.7,
-    "PTS": 12.3,
-    "REB": 5.1,
-    "AST": 2.0,
-    "STL": 0.9,
-    "BLK": 0.7,
-    "TO": 2.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "A.J. Green",
-    "POS": "SG",
-    "TEAM": "MIL",
+    "NAME": "Keldon Johnson",
+    "POS": "SF",
+    "TEAM": "SAS",
     "GP": 8.0,
-    "MIN": 27.0,
+    "MIN": 24.5,
     "PTS": 12.3,
-    "REB": 2.3,
-    "AST": 1.1,
-    "STL": 0.3,
+    "REB": 4.9,
+    "AST": 1.5,
+    "STL": 0.6,
     "BLK": 0.0,
-    "TO": 0.9,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "TO": 0.8,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Tre Johnson",
+    "POS": "SG",
+    "TEAM": "WAS",
+    "GP": 9.0,
+    "MIN": 25.9,
+    "PTS": 12.3,
+    "REB": 3.1,
+    "AST": 1.4,
+    "STL": 0.2,
+    "BLK": 0.7,
+    "TO": 1.6,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Tre Jones",
+    "POS": "PG",
+    "TEAM": "CHI",
+    "GP": 8.0,
+    "MIN": 29.4,
+    "PTS": 12.3,
+    "REB": 3.6,
+    "AST": 5.5,
+    "STL": 2.1,
+    "BLK": 0.3,
+    "TO": 1.6,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Mark Williams",
@@ -1831,7 +1817,35 @@
     "STL": 1.3,
     "BLK": 0.9,
     "TO": 0.6,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Harrison Barnes",
+    "POS": "PF",
+    "TEAM": "SAS",
+    "GP": 8.0,
+    "MIN": 30.8,
+    "PTS": 12.1,
+    "REB": 2.9,
+    "AST": 2.6,
+    "STL": 0.9,
+    "BLK": 0.3,
+    "TO": 1.6,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Tari Eason",
+    "POS": "PF",
+    "TEAM": "HOU",
+    "GP": 8.0,
+    "MIN": 25.6,
+    "PTS": 12.1,
+    "REB": 4.8,
+    "AST": 2.0,
+    "STL": 1.0,
+    "BLK": 0.6,
+    "TO": 2.3,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Jake LaRavia",
@@ -1845,63 +1859,91 @@
     "STL": 1.4,
     "BLK": 0.1,
     "TO": 1.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Daniel Gafford",
-    "POS": "C",
-    "TEAM": "DAL",
-    "GP": 3.0,
-    "MIN": 22.3,
+    "NAME": "Santi Aldama",
+    "POS": "PF",
+    "TEAM": "MEM",
+    "GP": 10.0,
+    "MIN": 25.0,
     "PTS": 12.0,
-    "REB": 5.3,
+    "REB": 6.3,
+    "AST": 2.1,
+    "STL": 1.1,
+    "BLK": 0.5,
+    "TO": 1.3,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Wendell Carter Jr.",
+    "POS": "C",
+    "TEAM": "ORL",
+    "GP": 9.0,
+    "MIN": 28.6,
+    "PTS": 12.0,
+    "REB": 7.9,
     "AST": 1.3,
-    "STL": 1.3,
-    "BLK": 1.7,
-    "TO": 0.7,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "STL": 0.8,
+    "BLK": 0.7,
+    "TO": 1.8,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Brandin Podziemski",
+    "POS": "SG",
+    "TEAM": "GSW",
+    "GP": 10.0,
+    "MIN": 28.9,
+    "PTS": 12.0,
+    "REB": 4.6,
+    "AST": 3.5,
+    "STL": 1.1,
+    "BLK": 0.3,
+    "TO": 1.4,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Zaccharie Risacher",
+    "POS": "SF",
+    "TEAM": "ATL",
+    "GP": 7.0,
+    "MIN": 24.4,
+    "PTS": 12.0,
+    "REB": 2.4,
+    "AST": 1.0,
+    "STL": 1.1,
+    "BLK": 0.6,
+    "TO": 0.6,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Anthony Black",
+    "POS": "PG",
+    "TEAM": "ORL",
+    "GP": 9.0,
+    "MIN": 26.9,
+    "PTS": 11.8,
+    "REB": 3.2,
+    "AST": 2.6,
+    "STL": 1.2,
+    "BLK": 0.9,
+    "TO": 2.4,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Tristan Da Silva",
     "POS": "SF",
     "TEAM": "ORL",
-    "GP": 8.0,
-    "MIN": 21.4,
-    "PTS": 11.9,
-    "REB": 3.0,
-    "AST": 1.1,
-    "STL": 1.3,
-    "BLK": 0.1,
-    "TO": 1.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Terance Mann",
-    "POS": "SG",
-    "TEAM": "BRK",
-    "GP": 8.0,
-    "MIN": 27.9,
-    "PTS": 11.9,
-    "REB": 3.6,
-    "AST": 3.4,
-    "STL": 1.4,
-    "BLK": 0.0,
-    "TO": 0.8,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Simone Fontecchio",
-    "POS": "SF",
-    "TEAM": "MIA",
-    "GP": 8.0,
-    "MIN": 19.9,
+    "GP": 9.0,
+    "MIN": 21.0,
     "PTS": 11.8,
-    "REB": 2.5,
-    "AST": 1.4,
-    "STL": 0.6,
-    "BLK": 0.3,
-    "TO": 1.1,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "REB": 2.9,
+    "AST": 1.0,
+    "STL": 1.1,
+    "BLK": 0.1,
+    "TO": 0.9,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Quenton Jackson",
@@ -1915,105 +1957,63 @@
     "STL": 1.0,
     "BLK": 0.2,
     "TO": 1.2,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Naz Reid",
-    "POS": "C",
-    "TEAM": "MIN",
+    "NAME": "Gary Trent Jr.",
+    "POS": "SG",
+    "TEAM": "MIL",
+    "GP": 9.0,
+    "MIN": 28.1,
+    "PTS": 11.8,
+    "REB": 2.0,
+    "AST": 2.4,
+    "STL": 1.1,
+    "BLK": 0.0,
+    "TO": 0.8,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Simone Fontecchio",
+    "POS": "SF",
+    "TEAM": "MIA",
+    "GP": 9.0,
+    "MIN": 19.8,
+    "PTS": 11.7,
+    "REB": 2.4,
+    "AST": 1.4,
+    "STL": 0.6,
+    "BLK": 0.2,
+    "TO": 1.0,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "A.J. Green",
+    "POS": "SG",
+    "TEAM": "MIL",
+    "GP": 9.0,
+    "MIN": 27.9,
+    "PTS": 11.6,
+    "REB": 2.4,
+    "AST": 1.6,
+    "STL": 0.2,
+    "BLK": 0.1,
+    "TO": 0.9,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Moses Moody",
+    "POS": "SG",
+    "TEAM": "GSW",
     "GP": 8.0,
     "MIN": 22.9,
-    "PTS": 11.8,
-    "REB": 5.3,
-    "AST": 1.5,
-    "STL": 0.8,
-    "BLK": 0.9,
-    "TO": 1.6,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Santi Aldama",
-    "POS": "PF",
-    "TEAM": "MEM",
-    "GP": 9.0,
-    "MIN": 24.7,
     "PTS": 11.6,
-    "REB": 6.8,
-    "AST": 2.1,
-    "STL": 1.2,
-    "BLK": 0.6,
-    "TO": 1.2,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Anthony Black",
-    "POS": "PG",
-    "TEAM": "ORL",
-    "GP": 8.0,
-    "MIN": 26.1,
-    "PTS": 11.6,
-    "REB": 3.1,
-    "AST": 2.4,
+    "REB": 2.9,
+    "AST": 1.8,
     "STL": 0.9,
-    "BLK": 0.9,
-    "TO": 2.6,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Tre Johnson",
-    "POS": "SG",
-    "TEAM": "WAS",
-    "GP": 8.0,
-    "MIN": 25.5,
-    "PTS": 11.6,
-    "REB": 3.1,
-    "AST": 1.5,
-    "STL": 0.3,
-    "BLK": 0.8,
-    "TO": 1.5,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Tre Jones",
-    "POS": "PG",
-    "TEAM": "CHI",
-    "GP": 7.0,
-    "MIN": 29.4,
-    "PTS": 11.6,
-    "REB": 3.4,
-    "AST": 5.7,
-    "STL": 2.3,
-    "BLK": 0.3,
-    "TO": 1.9,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "CJ McCollum",
-    "POS": "SG",
-    "TEAM": "WAS",
-    "GP": 8.0,
-    "MIN": 27.3,
-    "PTS": 11.6,
-    "REB": 3.0,
-    "AST": 3.5,
-    "STL": 0.5,
-    "BLK": 0.0,
-    "TO": 1.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Isaiah Stewart",
-    "POS": "C",
-    "TEAM": "DET",
-    "GP": 8.0,
-    "MIN": 24.8,
-    "PTS": 11.5,
-    "REB": 7.1,
-    "AST": 1.6,
-    "STL": 0.3,
-    "BLK": 2.4,
-    "TO": 0.9,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "BLK": 1.0,
+    "TO": 1.4,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Jarace Walker",
@@ -2027,35 +2027,7 @@
     "STL": 0.5,
     "BLK": 0.5,
     "TO": 1.8,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Wendell Carter Jr.",
-    "POS": "C",
-    "TEAM": "ORL",
-    "GP": 8.0,
-    "MIN": 28.3,
-    "PTS": 11.3,
-    "REB": 8.3,
-    "AST": 1.4,
-    "STL": 0.6,
-    "BLK": 0.8,
-    "TO": 1.6,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Tim Hardaway Jr.",
-    "POS": "SG",
-    "TEAM": "DEN",
-    "GP": 7.0,
-    "MIN": 23.3,
-    "PTS": 11.3,
-    "REB": 1.6,
-    "AST": 1.1,
-    "STL": 0.6,
-    "BLK": 0.0,
-    "TO": 0.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Derrick Jones Jr.",
@@ -2069,49 +2041,35 @@
     "STL": 0.6,
     "BLK": 1.0,
     "TO": 0.6,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Khris Middleton",
-    "POS": "SF",
-    "TEAM": "WAS",
-    "GP": 6.0,
-    "MIN": 24.8,
-    "PTS": 11.3,
-    "REB": 4.5,
-    "AST": 2.2,
-    "STL": 0.7,
-    "BLK": 0.2,
-    "TO": 1.5,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Zaccharie Risacher",
-    "POS": "SF",
-    "TEAM": "ATL",
-    "GP": 6.0,
-    "MIN": 23.5,
-    "PTS": 11.3,
-    "REB": 2.0,
-    "AST": 1.2,
-    "STL": 1.0,
-    "BLK": 0.5,
-    "TO": 0.7,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "NAME": "Myles Turner",
+    "POS": "C",
+    "TEAM": "MIL",
+    "GP": 9.0,
+    "MIN": 28.7,
+    "PTS": 11.2,
+    "REB": 6.7,
+    "AST": 2.1,
+    "STL": 1.1,
+    "BLK": 2.0,
+    "TO": 1.7,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Cole Anthony",
     "POS": "PG",
     "TEAM": "MIL",
-    "GP": 7.0,
-    "MIN": 20.6,
+    "GP": 8.0,
+    "MIN": 20.9,
     "PTS": 11.1,
-    "REB": 3.3,
+    "REB": 3.1,
     "AST": 5.1,
-    "STL": 0.7,
-    "BLK": 0.6,
-    "TO": 1.7,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "STL": 0.8,
+    "BLK": 0.5,
+    "TO": 1.6,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Saddiq Bey",
@@ -2125,35 +2083,49 @@
     "STL": 0.6,
     "BLK": 0.0,
     "TO": 0.6,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Tre Mann",
+    "POS": "PG",
+    "TEAM": "CHO",
+    "GP": 9.0,
+    "MIN": 22.4,
+    "PTS": 11.1,
+    "REB": 3.4,
+    "AST": 3.0,
+    "STL": 0.9,
+    "BLK": 0.0,
+    "TO": 2.1,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Jock Landale",
     "POS": "C",
     "TEAM": "MEM",
-    "GP": 9.0,
-    "MIN": 23.9,
+    "GP": 10.0,
+    "MIN": 24.5,
     "PTS": 11.0,
-    "REB": 5.0,
-    "AST": 1.3,
-    "STL": 0.8,
-    "BLK": 0.6,
+    "REB": 5.2,
+    "AST": 1.5,
+    "STL": 0.7,
+    "BLK": 0.5,
     "TO": 1.2,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Duncan Robinson",
-    "POS": "SF",
-    "TEAM": "DET",
-    "GP": 8.0,
-    "MIN": 32.3,
+    "NAME": "Naz Reid",
+    "POS": "C",
+    "TEAM": "MIN",
+    "GP": 9.0,
+    "MIN": 22.9,
     "PTS": 11.0,
-    "REB": 3.0,
-    "AST": 1.0,
-    "STL": 0.1,
-    "BLK": 0.5,
-    "TO": 0.6,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "REB": 5.1,
+    "AST": 1.7,
+    "STL": 0.8,
+    "BLK": 0.9,
+    "TO": 1.4,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Tolu Smith",
@@ -2167,35 +2139,105 @@
     "STL": 1.0,
     "BLK": 0.0,
     "TO": 1.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Jalen Suggs",
+    "POS": "PG",
+    "TEAM": "ORL",
+    "GP": 7.0,
+    "MIN": 19.6,
+    "PTS": 11.0,
+    "REB": 3.1,
+    "AST": 4.4,
+    "STL": 1.7,
+    "BLK": 0.1,
+    "TO": 2.9,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Terance Mann",
+    "POS": "SG",
+    "TEAM": "BRK",
+    "GP": 9.0,
+    "MIN": 27.2,
+    "PTS": 10.9,
+    "REB": 3.2,
+    "AST": 3.3,
+    "STL": 1.2,
+    "BLK": 0.0,
+    "TO": 0.8,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Tim Hardaway Jr.",
+    "POS": "SG",
+    "TEAM": "DEN",
+    "GP": 8.0,
+    "MIN": 22.8,
+    "PTS": 10.8,
+    "REB": 1.8,
+    "AST": 1.3,
+    "STL": 0.5,
+    "BLK": 0.0,
+    "TO": 0.3,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Isaiah Stewart",
+    "POS": "C",
+    "TEAM": "DET",
+    "GP": 9.0,
+    "MIN": 23.0,
+    "PTS": 10.7,
+    "REB": 6.7,
+    "AST": 1.6,
+    "STL": 0.2,
+    "BLK": 2.1,
+    "TO": 0.9,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Jaylon Tyson",
     "POS": "SG",
     "TEAM": "CLE",
-    "GP": 8.0,
-    "MIN": 24.9,
-    "PTS": 10.8,
-    "REB": 3.0,
+    "GP": 9.0,
+    "MIN": 24.7,
+    "PTS": 10.7,
+    "REB": 3.1,
     "AST": 1.8,
     "STL": 1.0,
-    "BLK": 0.8,
-    "TO": 1.4,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "BLK": 0.7,
+    "TO": 1.2,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Isaiah Hartenstein",
-    "POS": "C",
-    "TEAM": "OKC",
+    "NAME": "Duncan Robinson",
+    "POS": "SF",
+    "TEAM": "DET",
     "GP": 9.0,
-    "MIN": 30.0,
-    "PTS": 10.7,
-    "REB": 10.9,
+    "MIN": 32.2,
+    "PTS": 10.6,
+    "REB": 2.8,
+    "AST": 1.8,
+    "STL": 0.3,
+    "BLK": 0.4,
+    "TO": 0.7,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Reed Sheppard",
+    "POS": "PG",
+    "TEAM": "HOU",
+    "GP": 8.0,
+    "MIN": 20.9,
+    "PTS": 10.6,
+    "REB": 2.4,
     "AST": 3.4,
-    "STL": 1.7,
+    "STL": 1.0,
     "BLK": 0.3,
-    "TO": 2.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "TO": 1.3,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Bilal Coulibaly",
@@ -2209,63 +2251,35 @@
     "STL": 1.0,
     "BLK": 1.0,
     "TO": 2.5,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Jalen Suggs",
-    "POS": "PG",
-    "TEAM": "ORL",
-    "GP": 6.0,
-    "MIN": 19.5,
-    "PTS": 10.5,
-    "REB": 3.2,
-    "AST": 4.3,
-    "STL": 2.0,
-    "BLK": 0.2,
-    "TO": 2.8,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Harrison Barnes",
-    "POS": "PF",
-    "TEAM": "SAS",
-    "GP": 7.0,
-    "MIN": 29.7,
-    "PTS": 10.4,
-    "REB": 2.6,
-    "AST": 2.7,
-    "STL": 0.7,
-    "BLK": 0.3,
-    "TO": 1.4,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Moussa Diabaté",
     "POS": "C",
     "TEAM": "CHO",
-    "GP": 8.0,
-    "MIN": 19.9,
-    "PTS": 10.4,
-    "REB": 6.9,
+    "GP": 9.0,
+    "MIN": 20.1,
+    "PTS": 10.3,
+    "REB": 7.3,
     "AST": 0.6,
-    "STL": 0.5,
-    "BLK": 1.1,
-    "TO": 0.6,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "STL": 0.4,
+    "BLK": 1.3,
+    "TO": 0.7,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Ron Holland",
+    "NAME": "Khris Middleton",
     "POS": "SF",
-    "TEAM": "DET",
-    "GP": 8.0,
-    "MIN": 21.8,
-    "PTS": 10.4,
-    "REB": 3.6,
-    "AST": 2.3,
-    "STL": 1.8,
-    "BLK": 0.4,
+    "TEAM": "WAS",
+    "GP": 7.0,
+    "MIN": 24.4,
+    "PTS": 10.3,
+    "REB": 4.1,
+    "AST": 2.4,
+    "STL": 0.6,
+    "BLK": 0.1,
     "TO": 1.6,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Marcus Smart",
@@ -2279,35 +2293,21 @@
     "STL": 1.7,
     "BLK": 0.3,
     "TO": 2.4,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Ziaire Williams",
+    "NAME": "Julian Champagnie",
     "POS": "SF",
-    "TEAM": "BRK",
-    "GP": 6.0,
-    "MIN": 20.5,
-    "PTS": 10.2,
-    "REB": 2.7,
-    "AST": 0.5,
-    "STL": 1.0,
-    "BLK": 0.5,
-    "TO": 0.7,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Dyson Daniels",
-    "POS": "SG",
-    "TEAM": "ATL",
+    "TEAM": "SAS",
     "GP": 8.0,
-    "MIN": 32.5,
+    "MIN": 30.0,
     "PTS": 10.1,
-    "REB": 5.8,
-    "AST": 3.8,
-    "STL": 2.5,
-    "BLK": 0.5,
-    "TO": 1.9,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "REB": 6.3,
+    "AST": 1.5,
+    "STL": 1.4,
+    "BLK": 0.4,
+    "TO": 1.3,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Collin Gillespie",
@@ -2321,21 +2321,21 @@
     "STL": 1.2,
     "BLK": 0.7,
     "TO": 1.6,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Kel'el Ware",
-    "POS": "C",
-    "TEAM": "MIA",
-    "GP": 8.0,
-    "MIN": 20.3,
-    "PTS": 10.1,
-    "REB": 7.4,
-    "AST": 0.6,
-    "STL": 1.0,
-    "BLK": 0.9,
-    "TO": 1.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "NAME": "Isaiah Collier",
+    "POS": "PG",
+    "TEAM": "UTA",
+    "GP": 1.0,
+    "MIN": 26.0,
+    "PTS": 10.0,
+    "REB": 0.0,
+    "AST": 3.0,
+    "STL": 0.0,
+    "BLK": 0.0,
+    "TO": 4.0,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Ryan Dunn",
@@ -2349,21 +2349,7 @@
     "STL": 1.1,
     "BLK": 1.0,
     "TO": 1.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Tre Mann",
-    "POS": "PG",
-    "TEAM": "CHO",
-    "GP": 8.0,
-    "MIN": 20.9,
-    "PTS": 10.0,
-    "REB": 2.8,
-    "AST": 2.5,
-    "STL": 0.9,
-    "BLK": 0.0,
-    "TO": 1.9,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Kevin Porter Jr.",
@@ -2377,21 +2363,7 @@
     "STL": 1.0,
     "BLK": 0.0,
     "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Rudy Gobert",
-    "POS": "C",
-    "TEAM": "MIN",
-    "GP": 8.0,
-    "MIN": 32.0,
-    "PTS": 9.9,
-    "REB": 9.8,
-    "AST": 1.5,
-    "STL": 0.4,
-    "BLK": 1.3,
-    "TO": 1.5,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Herbert Jones",
@@ -2405,35 +2377,63 @@
     "STL": 1.3,
     "BLK": 0.3,
     "TO": 1.8,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Reed Sheppard",
-    "POS": "PG",
-    "TEAM": "HOU",
-    "GP": 7.0,
-    "MIN": 20.0,
-    "PTS": 9.9,
-    "REB": 2.7,
-    "AST": 3.0,
-    "STL": 1.0,
-    "BLK": 0.3,
-    "TO": 1.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Myles Turner",
-    "POS": "C",
-    "TEAM": "MIL",
-    "GP": 8.0,
-    "MIN": 28.4,
+    "NAME": "Dyson Daniels",
+    "POS": "SG",
+    "TEAM": "ATL",
+    "GP": 9.0,
+    "MIN": 32.7,
     "PTS": 9.8,
-    "REB": 6.5,
-    "AST": 2.4,
-    "STL": 0.8,
-    "BLK": 2.1,
+    "REB": 6.0,
+    "AST": 4.2,
+    "STL": 2.4,
+    "BLK": 0.6,
+    "TO": 1.9,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Ron Holland",
+    "POS": "SF",
+    "TEAM": "DET",
+    "GP": 9.0,
+    "MIN": 22.1,
+    "PTS": 9.8,
+    "REB": 3.8,
+    "AST": 2.1,
+    "STL": 1.6,
+    "BLK": 0.3,
+    "TO": 1.8,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Kel'el Ware",
+    "POS": "C",
+    "TEAM": "MIA",
+    "GP": 9.0,
+    "MIN": 21.3,
+    "PTS": 9.8,
+    "REB": 7.2,
+    "AST": 0.6,
+    "STL": 1.0,
+    "BLK": 1.1,
+    "TO": 1.1,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Rudy Gobert",
+    "POS": "C",
+    "TEAM": "MIN",
+    "GP": 9.0,
+    "MIN": 31.7,
+    "PTS": 9.7,
+    "REB": 9.7,
+    "AST": 1.6,
+    "STL": 0.4,
+    "BLK": 1.4,
     "TO": 1.6,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Miles McBride",
@@ -2447,161 +2447,189 @@
     "STL": 1.0,
     "BLK": 0.2,
     "TO": 0.5,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Svi Mykhailiuk",
-    "POS": "SF",
-    "TEAM": "UTA",
-    "GP": 8.0,
-    "MIN": 28.3,
-    "PTS": 9.5,
-    "REB": 2.9,
-    "AST": 1.6,
-    "STL": 0.9,
-    "BLK": 0.1,
-    "TO": 0.8,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Josh Okogie",
     "POS": "SG",
     "TEAM": "HOU",
-    "GP": 7.0,
-    "MIN": 23.0,
-    "PTS": 9.3,
-    "REB": 1.9,
-    "AST": 1.6,
-    "STL": 1.0,
-    "BLK": 0.1,
-    "TO": 0.4,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Collin Murray-Boyles",
-    "POS": "PF",
-    "TEAM": "TOR",
-    "GP": 6.0,
-    "MIN": 21.3,
-    "PTS": 9.2,
-    "REB": 3.3,
-    "AST": 1.3,
-    "STL": 1.0,
-    "BLK": 0.2,
-    "TO": 1.2,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Ryan Kalkbrenner",
-    "POS": "C",
-    "TEAM": "CHO",
     "GP": 8.0,
-    "MIN": 27.4,
-    "PTS": 9.1,
-    "REB": 7.1,
-    "AST": 0.6,
-    "STL": 1.3,
-    "BLK": 2.4,
-    "TO": 1.6,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Josh Minott",
-    "POS": "PF",
-    "TEAM": "BOS",
-    "GP": 8.0,
-    "MIN": 22.5,
-    "PTS": 9.1,
-    "REB": 6.5,
-    "AST": 1.5,
+    "MIN": 23.3,
+    "PTS": 9.6,
+    "REB": 2.0,
+    "AST": 1.4,
     "STL": 1.5,
-    "BLK": 0.5,
-    "TO": 0.5,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "BLK": 0.1,
+    "TO": 0.8,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Neemias Queta",
-    "POS": "C",
-    "TEAM": "BOS",
+    "NAME": "Cason Wallace",
+    "POS": "SG",
+    "TEAM": "OKC",
     "GP": 9.0,
-    "MIN": 22.9,
-    "PTS": 9.1,
-    "REB": 8.1,
-    "AST": 1.7,
-    "STL": 0.9,
-    "BLK": 1.3,
+    "MIN": 29.8,
+    "PTS": 9.6,
+    "REB": 3.8,
+    "AST": 3.1,
+    "STL": 2.6,
+    "BLK": 0.3,
     "TO": 1.1,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Ziaire Williams",
+    "POS": "SF",
+    "TEAM": "BRK",
+    "GP": 7.0,
+    "MIN": 20.0,
+    "PTS": 9.6,
+    "REB": 2.6,
+    "AST": 0.6,
+    "STL": 0.9,
+    "BLK": 0.4,
+    "TO": 0.7,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Will Richard",
     "POS": "SG",
     "TEAM": "GSW",
-    "GP": 7.0,
-    "MIN": 16.7,
-    "PTS": 9.1,
-    "REB": 2.4,
+    "GP": 8.0,
+    "MIN": 17.0,
+    "PTS": 9.5,
+    "REB": 2.5,
     "AST": 1.6,
-    "STL": 1.3,
+    "STL": 1.1,
     "BLK": 0.0,
-    "TO": 0.7,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "TO": 0.6,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Jalen Smith",
-    "POS": "C",
-    "TEAM": "CHI",
-    "GP": 7.0,
-    "MIN": 14.7,
-    "PTS": 9.1,
-    "REB": 4.9,
-    "AST": 0.6,
-    "STL": 0.3,
-    "BLK": 0.3,
-    "TO": 1.1,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "NAME": "Josh Minott",
+    "POS": "PF",
+    "TEAM": "BOS",
+    "GP": 9.0,
+    "MIN": 22.8,
+    "PTS": 9.4,
+    "REB": 6.7,
+    "AST": 1.4,
+    "STL": 1.4,
+    "BLK": 0.4,
+    "TO": 0.7,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Cam Spencer",
     "POS": "SG",
     "TEAM": "MEM",
-    "GP": 9.0,
-    "MIN": 17.2,
-    "PTS": 9.1,
+    "GP": 10.0,
+    "MIN": 17.4,
+    "PTS": 9.4,
     "REB": 2.2,
-    "AST": 3.2,
-    "STL": 0.7,
+    "AST": 3.1,
+    "STL": 0.8,
     "BLK": 0.0,
     "TO": 1.1,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Jaylen Wells",
+    "NAME": "Jonas Valančiūnas",
+    "POS": "C",
+    "TEAM": "DEN",
+    "GP": 8.0,
+    "MIN": 12.4,
+    "PTS": 9.3,
+    "REB": 4.8,
+    "AST": 1.0,
+    "STL": 0.1,
+    "BLK": 0.6,
+    "TO": 1.0,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Kentavious Caldwell-Pope",
     "POS": "SG",
     "TEAM": "MEM",
+    "GP": 10.0,
+    "MIN": 24.7,
+    "PTS": 9.2,
+    "REB": 2.7,
+    "AST": 3.4,
+    "STL": 0.7,
+    "BLK": 0.3,
+    "TO": 1.3,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Ryan Kalkbrenner",
+    "POS": "C",
+    "TEAM": "CHO",
     "GP": 9.0,
-    "MIN": 25.3,
+    "MIN": 27.3,
+    "PTS": 9.2,
+    "REB": 6.9,
+    "AST": 0.6,
+    "STL": 1.1,
+    "BLK": 2.6,
+    "TO": 1.8,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Svi Mykhailiuk",
+    "POS": "SF",
+    "TEAM": "UTA",
+    "GP": 9.0,
+    "MIN": 27.1,
     "PTS": 9.1,
-    "REB": 3.9,
-    "AST": 1.6,
-    "STL": 0.4,
-    "BLK": 0.0,
-    "TO": 0.7,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "REB": 2.8,
+    "AST": 1.7,
+    "STL": 0.8,
+    "BLK": 0.1,
+    "TO": 0.8,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Daniel Gafford",
+    "POS": "C",
+    "TEAM": "DAL",
+    "GP": 4.0,
+    "MIN": 19.8,
+    "PTS": 9.0,
+    "REB": 4.3,
+    "AST": 1.0,
+    "STL": 1.0,
+    "BLK": 1.3,
+    "TO": 0.5,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Draymond Green",
+    "POS": "PF",
+    "TEAM": "GSW",
+    "GP": 9.0,
+    "MIN": 29.1,
+    "PTS": 9.0,
+    "REB": 6.0,
+    "AST": 6.1,
+    "STL": 0.8,
+    "BLK": 0.7,
+    "TO": 2.8,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Davion Mitchell",
     "POS": "PG",
     "TEAM": "MIA",
-    "GP": 8.0,
-    "MIN": 29.4,
+    "GP": 9.0,
+    "MIN": 29.7,
     "PTS": 9.0,
-    "REB": 2.6,
-    "AST": 7.9,
-    "STL": 1.0,
+    "REB": 2.9,
+    "AST": 7.6,
+    "STL": 1.2,
     "BLK": 0.1,
     "TO": 1.6,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Nick Smith Jr.",
@@ -2615,21 +2643,35 @@
     "STL": 0.3,
     "BLK": 0.3,
     "TO": 2.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Kentavious Caldwell-Pope",
+    "NAME": "Jeremy Sochan",
+    "POS": "PF",
+    "TEAM": "SAS",
+    "GP": 2.0,
+    "MIN": 19.0,
+    "PTS": 9.0,
+    "REB": 2.0,
+    "AST": 1.0,
+    "STL": 0.5,
+    "BLK": 0.0,
+    "TO": 1.5,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Jaylen Wells",
     "POS": "SG",
     "TEAM": "MEM",
-    "GP": 9.0,
-    "MIN": 24.8,
-    "PTS": 8.9,
-    "REB": 2.7,
-    "AST": 3.7,
-    "STL": 0.8,
-    "BLK": 0.3,
-    "TO": 1.4,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "GP": 10.0,
+    "MIN": 25.3,
+    "PTS": 9.0,
+    "REB": 4.0,
+    "AST": 1.5,
+    "STL": 0.4,
+    "BLK": 0.0,
+    "TO": 0.7,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Jordan Clarkson",
@@ -2643,105 +2685,119 @@
     "STL": 0.1,
     "BLK": 0.3,
     "TO": 1.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Sam Hauser",
-    "POS": "PF",
-    "TEAM": "BOS",
-    "GP": 9.0,
-    "MIN": 23.6,
-    "PTS": 8.9,
-    "REB": 3.0,
-    "AST": 1.4,
-    "STL": 0.6,
-    "BLK": 0.3,
-    "TO": 0.9,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Cason Wallace",
-    "POS": "SG",
-    "TEAM": "OKC",
-    "GP": 8.0,
-    "MIN": 30.1,
-    "PTS": 8.9,
-    "REB": 4.0,
-    "AST": 3.3,
-    "STL": 2.8,
-    "BLK": 0.4,
-    "TO": 1.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Sion James",
     "POS": "SG",
     "TEAM": "CHO",
-    "GP": 8.0,
-    "MIN": 24.3,
-    "PTS": 8.8,
-    "REB": 3.1,
-    "AST": 1.5,
+    "GP": 9.0,
+    "MIN": 25.2,
+    "PTS": 8.9,
+    "REB": 3.0,
+    "AST": 1.4,
     "STL": 0.6,
-    "BLK": 0.4,
-    "TO": 0.6,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "BLK": 0.3,
+    "TO": 0.9,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Corey Kispert",
+    "POS": "SF",
+    "TEAM": "WAS",
+    "GP": 9.0,
+    "MIN": 18.4,
+    "PTS": 8.9,
+    "REB": 2.4,
+    "AST": 1.9,
+    "STL": 0.2,
+    "BLK": 0.1,
+    "TO": 0.9,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Pelle Larsson",
+    "POS": "SG",
+    "TEAM": "MIA",
+    "GP": 9.0,
+    "MIN": 19.3,
+    "PTS": 8.9,
+    "REB": 2.6,
+    "AST": 2.2,
+    "STL": 0.7,
+    "BLK": 0.0,
+    "TO": 0.7,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Sandro Mamukelashvili",
+    "POS": "C",
+    "TEAM": "TOR",
+    "GP": 9.0,
+    "MIN": 17.9,
+    "PTS": 8.9,
+    "REB": 3.4,
+    "AST": 1.9,
+    "STL": 0.3,
+    "BLK": 0.3,
+    "TO": 1.0,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Jalen Smith",
+    "POS": "C",
+    "TEAM": "CHI",
+    "GP": 8.0,
+    "MIN": 15.0,
+    "PTS": 8.9,
+    "REB": 4.9,
+    "AST": 0.9,
+    "STL": 0.3,
+    "BLK": 0.3,
+    "TO": 1.1,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Neemias Queta",
+    "POS": "C",
+    "TEAM": "BOS",
+    "GP": 10.0,
+    "MIN": 23.6,
+    "PTS": 8.7,
+    "REB": 8.1,
+    "AST": 1.7,
+    "STL": 0.9,
+    "BLK": 1.4,
+    "TO": 1.0,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Noah Clowney",
+    "POS": "PF",
+    "TEAM": "BRK",
+    "GP": 9.0,
+    "MIN": 23.6,
+    "PTS": 8.6,
+    "REB": 3.8,
+    "AST": 1.6,
+    "STL": 0.4,
+    "BLK": 0.0,
+    "TO": 1.6,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Bobby Portis",
     "POS": "PF",
     "TEAM": "MIL",
-    "GP": 8.0,
+    "GP": 9.0,
     "MIN": 19.4,
-    "PTS": 8.8,
-    "REB": 5.8,
-    "AST": 1.1,
+    "PTS": 8.6,
+    "REB": 5.7,
+    "AST": 1.2,
     "STL": 0.1,
     "BLK": 0.1,
-    "TO": 1.4,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Vince Williams Jr.",
-    "POS": "SG",
-    "TEAM": "MEM",
-    "GP": 4.0,
-    "MIN": 17.0,
-    "PTS": 8.8,
-    "REB": 2.8,
-    "AST": 2.8,
-    "STL": 1.3,
-    "BLK": 0.3,
-    "TO": 1.8,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Cameron Johnson",
-    "POS": "SF",
-    "TEAM": "DEN",
-    "GP": 7.0,
-    "MIN": 26.7,
-    "PTS": 8.6,
-    "REB": 3.0,
-    "AST": 1.4,
-    "STL": 0.4,
-    "BLK": 0.1,
-    "TO": 0.7,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Patrick Williams",
-    "POS": "PF",
-    "TEAM": "CHI",
-    "GP": 7.0,
-    "MIN": 22.4,
-    "PTS": 8.6,
-    "REB": 2.9,
-    "AST": 2.0,
-    "STL": 1.0,
-    "BLK": 0.6,
-    "TO": 0.9,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "TO": 1.3,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Luke Kennard",
@@ -2755,49 +2811,21 @@
     "STL": 0.9,
     "BLK": 0.1,
     "TO": 1.5,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Sandro Mamukelashvili",
-    "POS": "C",
-    "TEAM": "TOR",
-    "GP": 8.0,
-    "MIN": 17.6,
-    "PTS": 8.5,
-    "REB": 3.1,
-    "AST": 2.0,
-    "STL": 0.3,
-    "BLK": 0.4,
-    "TO": 1.1,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Klay Thompson",
-    "POS": "SF",
-    "TEAM": "DAL",
-    "GP": 8.0,
-    "MIN": 20.4,
-    "PTS": 8.5,
-    "REB": 3.1,
-    "AST": 1.8,
-    "STL": 0.3,
-    "BLK": 0.4,
-    "TO": 1.4,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Julian Champagnie",
-    "POS": "SF",
-    "TEAM": "SAS",
-    "GP": 7.0,
-    "MIN": 29.9,
+    "NAME": "Nikola Jović",
+    "POS": "PF",
+    "TEAM": "MIA",
+    "GP": 9.0,
+    "MIN": 21.2,
     "PTS": 8.4,
-    "REB": 6.1,
-    "AST": 1.6,
-    "STL": 1.0,
-    "BLK": 0.3,
-    "TO": 1.1,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "REB": 3.9,
+    "AST": 2.7,
+    "STL": 0.6,
+    "BLK": 0.2,
+    "TO": 1.4,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Derik Queen",
@@ -2811,7 +2839,7 @@
     "STL": 1.3,
     "BLK": 0.5,
     "TO": 1.5,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Trendon Watford",
@@ -2825,7 +2853,7 @@
     "STL": 0.4,
     "BLK": 0.2,
     "TO": 1.6,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Donovan Clingan",
@@ -2839,91 +2867,77 @@
     "STL": 0.9,
     "BLK": 1.4,
     "TO": 0.6,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Nikola Jović",
-    "POS": "PF",
-    "TEAM": "MIA",
-    "GP": 8.0,
-    "MIN": 21.4,
-    "PTS": 8.3,
-    "REB": 3.9,
-    "AST": 2.6,
-    "STL": 0.3,
-    "BLK": 0.1,
-    "TO": 1.5,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Jonas Valančiūnas",
-    "POS": "C",
-    "TEAM": "DEN",
-    "GP": 7.0,
-    "MIN": 11.9,
-    "PTS": 8.3,
-    "REB": 4.6,
-    "AST": 1.0,
-    "STL": 0.1,
-    "BLK": 0.7,
-    "TO": 1.1,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Gradey Dick",
     "POS": "SG",
     "TEAM": "TOR",
-    "GP": 8.0,
-    "MIN": 16.3,
-    "PTS": 8.0,
-    "REB": 2.4,
-    "AST": 0.3,
+    "GP": 9.0,
+    "MIN": 15.9,
+    "PTS": 8.3,
+    "REB": 2.2,
+    "AST": 0.2,
     "STL": 0.4,
     "BLK": 0.0,
     "TO": 0.1,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Darius Garland",
-    "POS": "PG",
-    "TEAM": "CLE",
-    "GP": 1.0,
-    "MIN": 26.0,
-    "PTS": 8.0,
-    "REB": 2.0,
-    "AST": 4.0,
-    "STL": 0.0,
-    "BLK": 0.0,
-    "TO": 3.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Draymond Green",
+    "NAME": "Sam Hauser",
     "POS": "PF",
-    "TEAM": "GSW",
-    "GP": 8.0,
-    "MIN": 29.6,
-    "PTS": 8.0,
-    "REB": 6.0,
-    "AST": 6.4,
-    "STL": 0.8,
-    "BLK": 0.6,
-    "TO": 2.8,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "TEAM": "BOS",
+    "GP": 10.0,
+    "MIN": 23.3,
+    "PTS": 8.3,
+    "REB": 3.0,
+    "AST": 1.6,
+    "STL": 0.6,
+    "BLK": 0.3,
+    "TO": 0.8,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Corey Kispert",
-    "POS": "SF",
-    "TEAM": "WAS",
+    "NAME": "Collin Murray-Boyles",
+    "POS": "PF",
+    "TEAM": "TOR",
+    "GP": 7.0,
+    "MIN": 20.9,
+    "PTS": 8.3,
+    "REB": 3.4,
+    "AST": 1.3,
+    "STL": 0.9,
+    "BLK": 0.4,
+    "TO": 1.3,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Patrick Williams",
+    "POS": "PF",
+    "TEAM": "CHI",
     "GP": 8.0,
-    "MIN": 18.3,
-    "PTS": 8.0,
-    "REB": 2.4,
-    "AST": 1.6,
-    "STL": 0.1,
-    "BLK": 0.1,
+    "MIN": 22.6,
+    "PTS": 8.3,
+    "REB": 3.3,
+    "AST": 1.8,
+    "STL": 1.0,
+    "BLK": 0.5,
+    "TO": 0.8,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Naji Marshall",
+    "POS": "SF",
+    "TEAM": "DAL",
+    "GP": 9.0,
+    "MIN": 23.8,
+    "PTS": 8.1,
+    "REB": 3.9,
+    "AST": 2.3,
+    "STL": 1.1,
+    "BLK": 0.0,
     "TO": 0.9,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Luke Kornet",
@@ -2937,21 +2951,7 @@
     "STL": 0.0,
     "BLK": 1.5,
     "TO": 0.5,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Tyrese Martin",
-    "POS": "SG",
-    "TEAM": "BRK",
-    "GP": 8.0,
-    "MIN": 20.9,
-    "PTS": 8.0,
-    "REB": 3.4,
-    "AST": 2.5,
-    "STL": 0.4,
-    "BLK": 0.1,
-    "TO": 0.9,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Ben Sheppard",
@@ -2965,7 +2965,7 @@
     "STL": 0.5,
     "BLK": 0.3,
     "TO": 0.8,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Josh Hart",
@@ -2979,7 +2979,7 @@
     "STL": 0.6,
     "BLK": 0.0,
     "TO": 1.6,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Isaiah Jackson",
@@ -2993,7 +2993,21 @@
     "STL": 0.4,
     "BLK": 0.4,
     "TO": 1.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Brandon Williams",
+    "POS": "PG",
+    "TEAM": "DAL",
+    "GP": 7.0,
+    "MIN": 15.1,
+    "PTS": 7.9,
+    "REB": 1.6,
+    "AST": 1.6,
+    "STL": 1.4,
+    "BLK": 0.1,
+    "TO": 1.7,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Yves Missi",
@@ -3007,63 +3021,49 @@
     "STL": 0.2,
     "BLK": 1.2,
     "TO": 1.6,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Buddy Hield",
     "POS": "SG",
     "TEAM": "GSW",
-    "GP": 9.0,
-    "MIN": 16.9,
+    "GP": 10.0,
+    "MIN": 17.1,
     "PTS": 7.7,
-    "REB": 1.4,
-    "AST": 1.7,
-    "STL": 0.7,
-    "BLK": 0.0,
-    "TO": 0.9,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Pelle Larsson",
-    "POS": "SG",
-    "TEAM": "MIA",
-    "GP": 8.0,
-    "MIN": 18.4,
-    "PTS": 7.6,
-    "REB": 2.4,
-    "AST": 2.3,
+    "REB": 1.3,
+    "AST": 1.5,
     "STL": 0.6,
     "BLK": 0.0,
-    "TO": 0.8,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "TO": 1.0,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Brice Sensabaugh",
+    "NAME": "Jakob Poeltl",
+    "POS": "C",
+    "TEAM": "TOR",
+    "GP": 6.0,
+    "MIN": 22.8,
+    "PTS": 7.7,
+    "REB": 6.7,
+    "AST": 1.7,
+    "STL": 0.3,
+    "BLK": 0.5,
+    "TO": 1.7,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Klay Thompson",
     "POS": "SF",
-    "TEAM": "UTA",
-    "GP": 7.0,
-    "MIN": 12.0,
+    "TEAM": "DAL",
+    "GP": 9.0,
+    "MIN": 20.0,
     "PTS": 7.6,
-    "REB": 2.3,
-    "AST": 0.7,
-    "STL": 0.4,
-    "BLK": 0.1,
-    "TO": 0.7,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Marvin Bagley III",
-    "POS": "PF",
-    "TEAM": "WAS",
-    "GP": 8.0,
-    "MIN": 14.5,
-    "PTS": 7.5,
-    "REB": 4.1,
-    "AST": 1.5,
-    "STL": 0.4,
-    "BLK": 0.4,
-    "TO": 0.8,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "REB": 2.9,
+    "AST": 1.9,
+    "STL": 0.3,
+    "BLK": 0.3,
+    "TO": 1.2,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Dominick Barlow",
@@ -3077,7 +3077,7 @@
     "STL": 0.0,
     "BLK": 0.5,
     "TO": 1.5,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Malaki Branham",
@@ -3091,35 +3091,21 @@
     "STL": 0.0,
     "BLK": 0.0,
     "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "KJ Simpson",
-    "POS": "PG",
-    "TEAM": "CHO",
-    "GP": 2.0,
-    "MIN": 15.0,
-    "PTS": 7.5,
-    "REB": 3.5,
-    "AST": 2.0,
-    "STL": 0.5,
-    "BLK": 0.0,
-    "TO": 2.5,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Cam Whitmore",
+    "NAME": "Cameron Johnson",
     "POS": "SF",
-    "TEAM": "WAS",
+    "TEAM": "DEN",
     "GP": 8.0,
-    "MIN": 14.9,
+    "MIN": 26.5,
     "PTS": 7.5,
-    "REB": 2.5,
-    "AST": 0.6,
-    "STL": 1.0,
+    "REB": 2.8,
+    "AST": 1.8,
+    "STL": 0.5,
     "BLK": 0.1,
-    "TO": 1.1,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "TO": 0.6,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Bradley Beal",
@@ -3133,7 +3119,7 @@
     "STL": 0.4,
     "BLK": 0.0,
     "TO": 1.6,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Kris Dunn",
@@ -3147,63 +3133,49 @@
     "STL": 1.6,
     "BLK": 0.1,
     "TO": 1.5,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Jusuf Nurkić",
-    "POS": "C",
-    "TEAM": "UTA",
-    "GP": 8.0,
-    "MIN": 21.5,
-    "PTS": 7.4,
-    "REB": 9.4,
-    "AST": 2.9,
-    "STL": 1.6,
-    "BLK": 0.4,
-    "TO": 2.8,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "NAME": "Tyrese Martin",
+    "POS": "SG",
+    "TEAM": "BRK",
+    "GP": 9.0,
+    "MIN": 20.7,
+    "PTS": 7.3,
+    "REB": 3.1,
+    "AST": 2.6,
+    "STL": 0.4,
+    "BLK": 0.1,
+    "TO": 1.0,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Isaac Okoro",
     "POS": "SG",
     "TEAM": "CHI",
-    "GP": 7.0,
-    "MIN": 24.0,
-    "PTS": 7.4,
-    "REB": 2.3,
-    "AST": 1.7,
-    "STL": 0.6,
-    "BLK": 0.4,
-    "TO": 1.4,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Noah Clowney",
-    "POS": "PF",
-    "TEAM": "BRK",
     "GP": 8.0,
-    "MIN": 22.6,
+    "MIN": 23.1,
     "PTS": 7.3,
-    "REB": 4.1,
+    "REB": 2.5,
     "AST": 1.5,
-    "STL": 0.4,
-    "BLK": 0.0,
-    "TO": 1.6,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "STL": 0.6,
+    "BLK": 0.5,
+    "TO": 1.3,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Brandon Williams",
-    "POS": "PG",
-    "TEAM": "DAL",
-    "GP": 6.0,
-    "MIN": 14.0,
+    "NAME": "Brice Sensabaugh",
+    "POS": "SF",
+    "TEAM": "UTA",
+    "GP": 8.0,
+    "MIN": 13.4,
     "PTS": 7.3,
-    "REB": 1.7,
-    "AST": 1.3,
-    "STL": 1.3,
-    "BLK": 0.2,
-    "TO": 1.5,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "REB": 2.0,
+    "AST": 1.0,
+    "STL": 0.4,
+    "BLK": 0.1,
+    "TO": 0.6,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Luguentz Dort",
@@ -3217,35 +3189,21 @@
     "STL": 1.0,
     "BLK": 0.0,
     "TO": 0.7,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Keon Ellis",
-    "POS": "SG",
-    "TEAM": "SAC",
-    "GP": 8.0,
-    "MIN": 19.5,
-    "PTS": 7.1,
-    "REB": 1.9,
-    "AST": 0.8,
-    "STL": 1.6,
-    "BLK": 0.1,
-    "TO": 0.5,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Naji Marshall",
+    "NAME": "Kyle Anderson",
     "POS": "SF",
-    "TEAM": "DAL",
-    "GP": 8.0,
-    "MIN": 23.6,
-    "PTS": 7.1,
-    "REB": 3.5,
-    "AST": 2.1,
-    "STL": 1.1,
+    "TEAM": "UTA",
+    "GP": 3.0,
+    "MIN": 16.3,
+    "PTS": 7.0,
+    "REB": 2.3,
+    "AST": 3.0,
+    "STL": 0.3,
     "BLK": 0.0,
-    "TO": 0.9,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "TO": 1.0,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "RayJ Dennis",
@@ -3259,21 +3217,63 @@
     "STL": 0.4,
     "BLK": 0.6,
     "TO": 1.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Vit Krejci",
-    "POS": "PG",
-    "TEAM": "ATL",
-    "GP": 4.0,
-    "MIN": 16.0,
+    "NAME": "Vince Williams Jr.",
+    "POS": "SG",
+    "TEAM": "MEM",
+    "GP": 5.0,
+    "MIN": 16.8,
     "PTS": 7.0,
-    "REB": 1.8,
-    "AST": 1.0,
-    "STL": 0.5,
+    "REB": 2.8,
+    "AST": 2.4,
+    "STL": 1.0,
+    "BLK": 0.2,
+    "TO": 1.4,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Jalen Wilson",
+    "POS": "PF",
+    "TEAM": "BRK",
+    "GP": 8.0,
+    "MIN": 16.9,
+    "PTS": 7.0,
+    "REB": 0.9,
+    "AST": 0.9,
+    "STL": 0.1,
     "BLK": 0.0,
-    "TO": 0.5,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "TO": 0.8,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Marvin Bagley III",
+    "POS": "PF",
+    "TEAM": "WAS",
+    "GP": 9.0,
+    "MIN": 14.2,
+    "PTS": 6.9,
+    "REB": 4.4,
+    "AST": 1.3,
+    "STL": 0.3,
+    "BLK": 0.3,
+    "TO": 0.7,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Kyle Filipowski",
+    "POS": "C",
+    "TEAM": "UTA",
+    "GP": 9.0,
+    "MIN": 19.2,
+    "PTS": 6.9,
+    "REB": 5.0,
+    "AST": 2.2,
+    "STL": 0.4,
+    "BLK": 0.3,
+    "TO": 1.2,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Brook Lopez",
@@ -3287,7 +3287,21 @@
     "STL": 0.5,
     "BLK": 0.8,
     "TO": 1.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Jusuf Nurkić",
+    "POS": "C",
+    "TEAM": "UTA",
+    "GP": 9.0,
+    "MIN": 21.2,
+    "PTS": 6.9,
+    "REB": 8.8,
+    "AST": 3.0,
+    "STL": 1.6,
+    "BLK": 0.4,
+    "TO": 2.7,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Landry Shamet",
@@ -3301,77 +3315,49 @@
     "STL": 0.4,
     "BLK": 0.1,
     "TO": 0.6,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Jamal Shead",
-    "POS": "PG",
-    "TEAM": "TOR",
-    "GP": 8.0,
-    "MIN": 17.1,
-    "PTS": 6.9,
-    "REB": 1.9,
-    "AST": 5.4,
-    "STL": 0.6,
-    "BLK": 0.0,
-    "TO": 1.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Goga Bitadze",
-    "POS": "C",
-    "TEAM": "ORL",
-    "GP": 8.0,
-    "MIN": 17.4,
+    "NAME": "Caris LeVert",
+    "POS": "SG",
+    "TEAM": "DET",
+    "GP": 6.0,
+    "MIN": 19.2,
     "PTS": 6.8,
-    "REB": 5.3,
-    "AST": 1.5,
-    "STL": 0.4,
-    "BLK": 1.0,
-    "TO": 0.4,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Mike Conley",
-    "POS": "PG",
-    "TEAM": "MIN",
-    "GP": 8.0,
-    "MIN": 21.5,
-    "PTS": 6.8,
-    "REB": 2.3,
-    "AST": 4.3,
+    "REB": 1.5,
+    "AST": 2.2,
     "STL": 0.8,
-    "BLK": 0.4,
-    "TO": 1.4,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Jakob Poeltl",
-    "POS": "C",
-    "TEAM": "TOR",
-    "GP": 5.0,
-    "MIN": 22.4,
-    "PTS": 6.8,
-    "REB": 6.0,
-    "AST": 1.8,
-    "STL": 0.2,
-    "BLK": 0.4,
-    "TO": 1.6,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Jalen Wilson",
-    "POS": "PF",
-    "TEAM": "BRK",
-    "GP": 7.0,
-    "MIN": 17.9,
-    "PTS": 6.7,
-    "REB": 0.9,
-    "AST": 0.9,
-    "STL": 0.1,
     "BLK": 0.0,
-    "TO": 0.7,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "TO": 1.5,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Keon Ellis",
+    "POS": "SG",
+    "TEAM": "SAC",
+    "GP": 9.0,
+    "MIN": 18.7,
+    "PTS": 6.7,
+    "REB": 1.8,
+    "AST": 0.7,
+    "STL": 1.4,
+    "BLK": 0.1,
+    "TO": 0.4,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Cam Whitmore",
+    "POS": "SF",
+    "TEAM": "WAS",
+    "GP": 9.0,
+    "MIN": 13.8,
+    "PTS": 6.7,
+    "REB": 2.2,
+    "AST": 0.6,
+    "STL": 0.9,
+    "BLK": 0.1,
+    "TO": 1.1,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Jose Alvarado",
@@ -3385,63 +3371,21 @@
     "STL": 1.0,
     "BLK": 0.0,
     "TO": 0.6,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Kyle Filipowski",
-    "POS": "C",
-    "TEAM": "UTA",
-    "GP": 8.0,
-    "MIN": 18.9,
+    "NAME": "Mike Conley",
+    "POS": "PG",
+    "TEAM": "MIN",
+    "GP": 9.0,
+    "MIN": 20.9,
     "PTS": 6.6,
-    "REB": 4.4,
-    "AST": 2.3,
-    "STL": 0.3,
-    "BLK": 0.4,
-    "TO": 1.1,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Steven Adams",
-    "POS": "C",
-    "TEAM": "HOU",
-    "GP": 6.0,
-    "MIN": 22.5,
-    "PTS": 6.5,
-    "REB": 9.5,
-    "AST": 1.7,
-    "STL": 1.0,
-    "BLK": 0.7,
-    "TO": 1.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Kyle Anderson",
-    "POS": "SF",
-    "TEAM": "UTA",
-    "GP": 2.0,
-    "MIN": 18.5,
-    "PTS": 6.5,
-    "REB": 1.5,
-    "AST": 2.5,
-    "STL": 0.5,
-    "BLK": 0.0,
-    "TO": 1.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Mouhamed Gueye",
-    "POS": "PF",
-    "TEAM": "ATL",
-    "GP": 8.0,
-    "MIN": 15.5,
-    "PTS": 6.5,
-    "REB": 3.8,
-    "AST": 0.9,
-    "STL": 0.1,
-    "BLK": 0.9,
-    "TO": 0.8,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "REB": 2.1,
+    "AST": 4.0,
+    "STL": 0.7,
+    "BLK": 0.3,
+    "TO": 1.2,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Dalton Knecht",
@@ -3455,35 +3399,21 @@
     "STL": 0.5,
     "BLK": 0.5,
     "TO": 0.8,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Bruce Brown",
     "POS": "SG",
     "TEAM": "DEN",
-    "GP": 7.0,
-    "MIN": 20.4,
+    "GP": 8.0,
+    "MIN": 20.1,
     "PTS": 6.4,
-    "REB": 4.1,
-    "AST": 1.9,
-    "STL": 0.9,
+    "REB": 3.8,
+    "AST": 1.8,
+    "STL": 0.8,
     "BLK": 0.3,
     "TO": 1.1,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Alex Caruso",
-    "POS": "SG",
-    "TEAM": "OKC",
-    "GP": 5.0,
-    "MIN": 21.2,
-    "PTS": 6.4,
-    "REB": 1.8,
-    "AST": 2.2,
-    "STL": 2.0,
-    "BLK": 0.6,
-    "TO": 0.6,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Bogdan Bogdanović",
@@ -3497,21 +3427,21 @@
     "STL": 0.5,
     "BLK": 0.3,
     "TO": 1.8,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Walter Clayton",
-    "POS": "PG",
-    "TEAM": "UTA",
-    "GP": 8.0,
-    "MIN": 17.0,
+    "NAME": "Drew Eubanks",
+    "POS": "C",
+    "TEAM": "SAC",
+    "GP": 9.0,
+    "MIN": 16.0,
     "PTS": 6.3,
-    "REB": 2.5,
-    "AST": 3.5,
-    "STL": 0.6,
-    "BLK": 0.0,
-    "TO": 1.4,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "REB": 2.8,
+    "AST": 0.2,
+    "STL": 0.7,
+    "BLK": 1.2,
+    "TO": 1.2,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Mac McClung",
@@ -3525,21 +3455,21 @@
     "STL": 1.7,
     "BLK": 0.3,
     "TO": 0.7,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Day'Ron Sharpe",
     "POS": "C",
     "TEAM": "BRK",
-    "GP": 8.0,
-    "MIN": 16.1,
+    "GP": 9.0,
+    "MIN": 16.3,
     "PTS": 6.3,
-    "REB": 5.4,
-    "AST": 1.6,
-    "STL": 1.0,
+    "REB": 5.2,
+    "AST": 1.8,
+    "STL": 0.9,
     "BLK": 0.6,
-    "TO": 2.1,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "TO": 2.2,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Cam Christie",
@@ -3553,21 +3483,7 @@
     "STL": 0.2,
     "BLK": 0.0,
     "TO": 0.2,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Caris LeVert",
-    "POS": "SG",
-    "TEAM": "DET",
-    "GP": 5.0,
-    "MIN": 19.0,
-    "PTS": 6.2,
-    "REB": 1.2,
-    "AST": 1.8,
-    "STL": 0.8,
-    "BLK": 0.0,
-    "TO": 1.6,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Taurean Prince",
@@ -3581,21 +3497,77 @@
     "STL": 0.8,
     "BLK": 0.3,
     "TO": 0.6,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Jamison Battle",
-    "POS": "SF",
+    "NAME": "Jamal Shead",
+    "POS": "PG",
     "TEAM": "TOR",
-    "GP": 6.0,
-    "MIN": 8.0,
+    "GP": 9.0,
+    "MIN": 16.7,
+    "PTS": 6.1,
+    "REB": 1.8,
+    "AST": 5.0,
+    "STL": 0.7,
+    "BLK": 0.0,
+    "TO": 1.0,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Steven Adams",
+    "POS": "C",
+    "TEAM": "HOU",
+    "GP": 7.0,
+    "MIN": 22.1,
     "PTS": 6.0,
-    "REB": 1.2,
-    "AST": 0.2,
-    "STL": 0.2,
-    "BLK": 0.2,
-    "TO": 0.5,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "REB": 9.3,
+    "AST": 1.6,
+    "STL": 1.0,
+    "BLK": 0.6,
+    "TO": 1.1,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Goga Bitadze",
+    "POS": "C",
+    "TEAM": "ORL",
+    "GP": 9.0,
+    "MIN": 17.2,
+    "PTS": 6.0,
+    "REB": 5.4,
+    "AST": 1.4,
+    "STL": 0.3,
+    "BLK": 1.1,
+    "TO": 0.4,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Walter Clayton",
+    "POS": "PG",
+    "TEAM": "UTA",
+    "GP": 9.0,
+    "MIN": 16.4,
+    "PTS": 6.0,
+    "REB": 2.6,
+    "AST": 3.3,
+    "STL": 0.6,
+    "BLK": 0.1,
+    "TO": 1.3,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Mouhamed Gueye",
+    "POS": "PF",
+    "TEAM": "ATL",
+    "GP": 9.0,
+    "MIN": 15.9,
+    "PTS": 6.0,
+    "REB": 4.1,
+    "AST": 0.9,
+    "STL": 0.1,
+    "BLK": 0.8,
+    "TO": 0.7,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Jaxson Hayes",
@@ -3609,21 +3581,21 @@
     "STL": 0.3,
     "BLK": 0.5,
     "TO": 0.5,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Lindy Waters III",
-    "POS": "SG",
-    "TEAM": "SAS",
-    "GP": 1.0,
-    "MIN": 14.0,
+    "NAME": "Peyton Watson",
+    "POS": "SF",
+    "TEAM": "DEN",
+    "GP": 8.0,
+    "MIN": 20.5,
     "PTS": 6.0,
-    "REB": 1.0,
-    "AST": 0.0,
-    "STL": 0.0,
-    "BLK": 0.0,
-    "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "REB": 3.6,
+    "AST": 1.8,
+    "STL": 1.0,
+    "BLK": 1.3,
+    "TO": 1.1,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Blake Wesley",
@@ -3637,7 +3609,21 @@
     "STL": 1.7,
     "BLK": 0.2,
     "TO": 1.2,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Ace Bailey",
+    "POS": "SF",
+    "TEAM": "UTA",
+    "GP": 9.0,
+    "MIN": 18.4,
+    "PTS": 5.9,
+    "REB": 3.3,
+    "AST": 1.6,
+    "STL": 0.3,
+    "BLK": 0.1,
+    "TO": 1.3,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Andre Drummond",
@@ -3651,7 +3637,7 @@
     "STL": 0.9,
     "BLK": 1.0,
     "TO": 0.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Dean Wade",
@@ -3665,35 +3651,77 @@
     "STL": 0.8,
     "BLK": 0.4,
     "TO": 0.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Alex Caruso",
+    "POS": "SG",
+    "TEAM": "OKC",
+    "GP": 6.0,
+    "MIN": 21.3,
+    "PTS": 5.8,
+    "REB": 1.8,
+    "AST": 2.7,
+    "STL": 1.8,
+    "BLK": 0.5,
+    "TO": 0.5,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Bub Carrington",
     "POS": "PG",
     "TEAM": "WAS",
-    "GP": 8.0,
+    "GP": 9.0,
     "MIN": 27.3,
-    "PTS": 5.6,
+    "PTS": 5.7,
     "REB": 4.1,
-    "AST": 4.3,
-    "STL": 0.9,
-    "BLK": 0.1,
-    "TO": 2.5,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "AST": 5.0,
+    "STL": 0.8,
+    "BLK": 0.2,
+    "TO": 2.4,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Nique Clifford",
-    "POS": "SG",
-    "TEAM": "SAC",
-    "GP": 4.0,
-    "MIN": 22.8,
-    "PTS": 5.5,
+    "NAME": "Egor Demin",
+    "POS": "PG",
+    "TEAM": "BRK",
+    "GP": 8.0,
+    "MIN": 19.4,
+    "PTS": 5.6,
+    "REB": 3.0,
+    "AST": 3.1,
+    "STL": 1.0,
+    "BLK": 0.3,
+    "TO": 1.5,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Vit Krejci",
+    "POS": "PG",
+    "TEAM": "ATL",
+    "GP": 5.0,
+    "MIN": 16.2,
+    "PTS": 5.6,
+    "REB": 2.2,
+    "AST": 1.2,
+    "STL": 0.4,
+    "BLK": 0.0,
+    "TO": 0.6,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Quinten Post",
+    "POS": "PF",
+    "TEAM": "GSW",
+    "GP": 10.0,
+    "MIN": 15.2,
+    "PTS": 5.6,
     "REB": 3.8,
-    "AST": 2.0,
-    "STL": 0.8,
-    "BLK": 0.8,
-    "TO": 0.5,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "AST": 0.9,
+    "STL": 0.4,
+    "BLK": 0.7,
+    "TO": 0.7,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Kris Murray",
@@ -3707,49 +3735,21 @@
     "STL": 1.3,
     "BLK": 0.3,
     "TO": 0.9,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Dru Smith",
-    "POS": "SG",
-    "TEAM": "MIA",
-    "GP": 8.0,
-    "MIN": 16.9,
-    "PTS": 5.4,
-    "REB": 1.5,
-    "AST": 3.6,
-    "STL": 1.6,
-    "BLK": 0.3,
-    "TO": 1.1,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Peyton Watson",
-    "POS": "SF",
-    "TEAM": "DEN",
-    "GP": 7.0,
-    "MIN": 20.0,
-    "PTS": 5.4,
-    "REB": 3.7,
-    "AST": 1.9,
-    "STL": 0.9,
-    "BLK": 1.3,
-    "TO": 1.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Egor Demin",
+    "NAME": "Rob Dillingham",
     "POS": "PG",
-    "TEAM": "BRK",
+    "TEAM": "MIN",
     "GP": 7.0,
-    "MIN": 18.9,
+    "MIN": 12.6,
     "PTS": 5.3,
-    "REB": 3.0,
-    "AST": 2.6,
-    "STL": 1.0,
-    "BLK": 0.3,
-    "TO": 1.6,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "REB": 0.9,
+    "AST": 2.4,
+    "STL": 0.7,
+    "BLK": 0.0,
+    "TO": 1.4,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Dereck Lively II",
@@ -3763,49 +3763,63 @@
     "STL": 0.7,
     "BLK": 1.3,
     "TO": 1.7,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Ace Bailey",
+    "NAME": "Dru Smith",
+    "POS": "SG",
+    "TEAM": "MIA",
+    "GP": 9.0,
+    "MIN": 16.8,
+    "PTS": 5.3,
+    "REB": 1.3,
+    "AST": 3.6,
+    "STL": 1.6,
+    "BLK": 0.2,
+    "TO": 1.0,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Jaylin Williams",
+    "POS": "PF",
+    "TEAM": "OKC",
+    "GP": 10.0,
+    "MIN": 18.1,
+    "PTS": 5.2,
+    "REB": 4.6,
+    "AST": 2.1,
+    "STL": 0.7,
+    "BLK": 0.8,
+    "TO": 0.7,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Jamison Battle",
     "POS": "SF",
-    "TEAM": "UTA",
-    "GP": 8.0,
-    "MIN": 17.8,
+    "TEAM": "TOR",
+    "GP": 7.0,
+    "MIN": 7.7,
     "PTS": 5.1,
-    "REB": 3.0,
-    "AST": 1.4,
+    "REB": 1.0,
+    "AST": 0.1,
     "STL": 0.3,
     "BLK": 0.1,
-    "TO": 1.1,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "TO": 0.4,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Drew Eubanks",
-    "POS": "C",
-    "TEAM": "SAC",
-    "GP": 8.0,
-    "MIN": 15.1,
+    "NAME": "Javonte Green",
+    "POS": "SG",
+    "TEAM": "DET",
+    "GP": 9.0,
+    "MIN": 17.7,
     "PTS": 5.1,
-    "REB": 3.0,
-    "AST": 0.3,
-    "STL": 0.6,
-    "BLK": 1.1,
-    "TO": 1.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Luka Garza",
-    "POS": "C",
-    "TEAM": "BOS",
-    "GP": 8.0,
-    "MIN": 13.0,
-    "PTS": 5.1,
-    "REB": 3.4,
-    "AST": 0.9,
-    "STL": 0.4,
-    "BLK": 0.4,
-    "TO": 0.5,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "REB": 2.7,
+    "AST": 1.0,
+    "STL": 1.0,
+    "BLK": 0.3,
+    "TO": 0.2,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Jay Huff",
@@ -3819,35 +3833,7 @@
     "STL": 0.1,
     "BLK": 1.5,
     "TO": 0.5,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Craig Porter Jr.",
-    "POS": "PG",
-    "TEAM": "CLE",
-    "GP": 8.0,
-    "MIN": 18.0,
-    "PTS": 5.1,
-    "REB": 3.4,
-    "AST": 2.4,
-    "STL": 1.1,
-    "BLK": 0.3,
-    "TO": 1.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Jaylin Williams",
-    "POS": "PF",
-    "TEAM": "OKC",
-    "GP": 9.0,
-    "MIN": 17.8,
-    "PTS": 5.1,
-    "REB": 4.8,
-    "AST": 2.2,
-    "STL": 0.8,
-    "BLK": 0.7,
-    "TO": 0.7,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Lonzo Ball",
@@ -3861,7 +3847,7 @@
     "STL": 1.0,
     "BLK": 0.1,
     "TO": 2.6,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Tony Bradley",
@@ -3875,7 +3861,21 @@
     "STL": 0.3,
     "BLK": 0.3,
     "TO": 0.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "KJ Simpson",
+    "POS": "PG",
+    "TEAM": "CHO",
+    "GP": 3.0,
+    "MIN": 14.3,
+    "PTS": 5.0,
+    "REB": 2.7,
+    "AST": 2.3,
+    "STL": 0.7,
+    "BLK": 0.0,
+    "TO": 1.7,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Matisse Thybulle",
@@ -3889,49 +3889,63 @@
     "STL": 2.5,
     "BLK": 0.0,
     "TO": 0.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Javon Small",
-    "POS": "PG",
-    "TEAM": "MEM",
+    "NAME": "Jaylen Clark",
+    "POS": "SG",
+    "TEAM": "MIN",
     "GP": 7.0,
-    "MIN": 14.1,
+    "MIN": 16.7,
     "PTS": 4.9,
-    "REB": 1.1,
-    "AST": 3.1,
-    "STL": 0.0,
+    "REB": 2.4,
+    "AST": 1.1,
+    "STL": 1.0,
     "BLK": 0.1,
-    "TO": 1.1,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "TO": 0.3,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Rob Dillingham",
+    "NAME": "Luka Garza",
+    "POS": "C",
+    "TEAM": "BOS",
+    "GP": 9.0,
+    "MIN": 13.0,
+    "PTS": 4.8,
+    "REB": 3.0,
+    "AST": 0.8,
+    "STL": 0.3,
+    "BLK": 0.7,
+    "TO": 0.4,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Bones Hyland",
     "POS": "PG",
     "TEAM": "MIN",
-    "GP": 6.0,
-    "MIN": 12.8,
+    "GP": 9.0,
+    "MIN": 10.4,
     "PTS": 4.8,
-    "REB": 0.7,
-    "AST": 2.7,
-    "STL": 0.8,
+    "REB": 1.0,
+    "AST": 1.7,
+    "STL": 0.4,
     "BLK": 0.0,
-    "TO": 1.7,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "TO": 0.9,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Javonte Green",
-    "POS": "SG",
-    "TEAM": "DET",
-    "GP": 8.0,
-    "MIN": 17.4,
+    "NAME": "Craig Porter Jr.",
+    "POS": "PG",
+    "TEAM": "CLE",
+    "GP": 9.0,
+    "MIN": 17.8,
     "PTS": 4.8,
-    "REB": 2.6,
-    "AST": 1.0,
+    "REB": 3.6,
+    "AST": 2.3,
     "STL": 1.0,
-    "BLK": 0.4,
-    "TO": 0.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "BLK": 0.2,
+    "TO": 1.0,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Duop Reath",
@@ -3945,7 +3959,7 @@
     "STL": 0.0,
     "BLK": 0.2,
     "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Jarred Vanderbilt",
@@ -3959,77 +3973,35 @@
     "STL": 1.2,
     "BLK": 0.4,
     "TO": 1.4,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Jaylen Clark",
-    "POS": "SG",
-    "TEAM": "MIN",
-    "GP": 6.0,
-    "MIN": 16.2,
-    "PTS": 4.7,
-    "REB": 2.7,
-    "AST": 1.0,
-    "STL": 0.8,
-    "BLK": 0.0,
-    "TO": 0.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Quinten Post",
+    "NAME": "Larry Nance Jr.",
     "POS": "PF",
-    "TEAM": "GSW",
+    "TEAM": "CLE",
     "GP": 9.0,
-    "MIN": 14.7,
-    "PTS": 4.7,
-    "REB": 3.9,
-    "AST": 0.9,
-    "STL": 0.4,
-    "BLK": 0.8,
-    "TO": 0.8,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Olivier-Maxence Prosper",
-    "POS": "PF",
-    "TEAM": "MEM",
-    "GP": 6.0,
-    "MIN": 8.2,
-    "PTS": 4.7,
-    "REB": 2.3,
-    "AST": 0.2,
-    "STL": 0.2,
-    "BLK": 0.0,
-    "TO": 0.5,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Clint Capela",
-    "POS": "C",
-    "TEAM": "HOU",
-    "GP": 7.0,
-    "MIN": 10.9,
+    "MIN": 16.7,
     "PTS": 4.6,
-    "REB": 5.1,
-    "AST": 0.4,
-    "STL": 0.3,
-    "BLK": 0.7,
-    "TO": 0.4,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "REB": 3.7,
+    "AST": 1.4,
+    "STL": 0.4,
+    "BLK": 0.2,
+    "TO": 0.6,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Taylor Hendricks",
-    "POS": "PF",
-    "TEAM": "UTA",
+    "NAME": "Jaden Hardy",
+    "POS": "SG",
+    "TEAM": "DAL",
     "GP": 8.0,
-    "MIN": 16.4,
+    "MIN": 10.9,
     "PTS": 4.5,
-    "REB": 4.5,
-    "AST": 0.4,
-    "STL": 0.3,
-    "BLK": 0.3,
-    "TO": 0.6,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "REB": 1.3,
+    "AST": 0.5,
+    "STL": 0.5,
+    "BLK": 0.1,
+    "TO": 0.5,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Al Horford",
@@ -4043,7 +4015,7 @@
     "STL": 0.7,
     "BLK": 0.5,
     "TO": 1.5,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "DeAndre Jordan",
@@ -4057,21 +4029,91 @@
     "STL": 0.0,
     "BLK": 0.0,
     "TO": 0.5,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Larry Nance Jr.",
+    "NAME": "Pat Spencer",
+    "POS": "PG",
+    "TEAM": "GSW",
+    "GP": 6.0,
+    "MIN": 11.0,
+    "PTS": 4.5,
+    "REB": 2.0,
+    "AST": 1.8,
+    "STL": 0.5,
+    "BLK": 0.0,
+    "TO": 0.7,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Lindy Waters III",
+    "POS": "SG",
+    "TEAM": "SAS",
+    "GP": 2.0,
+    "MIN": 10.0,
+    "PTS": 4.5,
+    "REB": 1.0,
+    "AST": 0.0,
+    "STL": 0.0,
+    "BLK": 0.0,
+    "TO": 0.0,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Nique Clifford",
+    "POS": "SG",
+    "TEAM": "SAC",
+    "GP": 5.0,
+    "MIN": 21.6,
+    "PTS": 4.4,
+    "REB": 3.6,
+    "AST": 2.0,
+    "STL": 0.6,
+    "BLK": 0.6,
+    "TO": 0.4,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Taylor Hendricks",
     "POS": "PF",
+    "TEAM": "UTA",
+    "GP": 9.0,
+    "MIN": 16.4,
+    "PTS": 4.4,
+    "REB": 4.2,
+    "AST": 0.4,
+    "STL": 0.4,
+    "BLK": 0.3,
+    "TO": 0.6,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Tyrese Proctor",
+    "POS": "PG",
     "TEAM": "CLE",
     "GP": 8.0,
-    "MIN": 16.9,
-    "PTS": 4.5,
-    "REB": 3.9,
+    "MIN": 11.5,
+    "PTS": 4.4,
+    "REB": 1.0,
+    "AST": 1.3,
+    "STL": 0.5,
+    "BLK": 0.0,
+    "TO": 0.8,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Trayce Jackson-Davis",
+    "POS": "C",
+    "TEAM": "GSW",
+    "GP": 6.0,
+    "MIN": 11.5,
+    "PTS": 4.3,
+    "REB": 2.3,
     "AST": 1.5,
     "STL": 0.5,
-    "BLK": 0.1,
-    "TO": 0.6,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "BLK": 0.5,
+    "TO": 0.2,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Asa Newell",
@@ -4085,7 +4127,7 @@
     "STL": 0.0,
     "BLK": 0.0,
     "TO": 0.5,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Nick Richards",
@@ -4099,7 +4141,21 @@
     "STL": 0.2,
     "BLK": 0.3,
     "TO": 1.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Javon Small",
+    "POS": "PG",
+    "TEAM": "MEM",
+    "GP": 8.0,
+    "MIN": 12.4,
+    "PTS": 4.3,
+    "REB": 1.0,
+    "AST": 2.8,
+    "STL": 0.0,
+    "BLK": 0.1,
+    "TO": 1.0,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Jordan Goodwin",
@@ -4113,7 +4169,7 @@
     "STL": 1.0,
     "BLK": 0.2,
     "TO": 1.7,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Oso Ighodaro",
@@ -4127,7 +4183,7 @@
     "STL": 0.2,
     "BLK": 0.6,
     "TO": 1.4,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Justin Edwards",
@@ -4141,21 +4197,35 @@
     "STL": 0.1,
     "BLK": 0.1,
     "TO": 0.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Keaton Wallace",
+    "POS": "PG",
+    "TEAM": "ATL",
+    "GP": 8.0,
+    "MIN": 12.3,
+    "PTS": 4.1,
+    "REB": 1.8,
+    "AST": 2.6,
+    "STL": 0.5,
+    "BLK": 0.3,
+    "TO": 0.8,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Precious Achiuwa",
     "POS": "C",
     "TEAM": "SAC",
-    "GP": 1.0,
-    "MIN": 9.0,
+    "GP": 2.0,
+    "MIN": 13.0,
     "PTS": 4.0,
-    "REB": 3.0,
+    "REB": 3.5,
     "AST": 0.0,
-    "STL": 0.0,
-    "BLK": 1.0,
-    "TO": 1.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "STL": 0.5,
+    "BLK": 0.5,
+    "TO": 0.5,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Koby Brea",
@@ -4169,7 +4239,21 @@
     "STL": 0.0,
     "BLK": 0.0,
     "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Clint Capela",
+    "POS": "C",
+    "TEAM": "HOU",
+    "GP": 8.0,
+    "MIN": 10.3,
+    "PTS": 4.0,
+    "REB": 4.9,
+    "AST": 0.5,
+    "STL": 0.3,
+    "BLK": 0.8,
+    "TO": 0.4,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Eric Gordon",
@@ -4183,21 +4267,7 @@
     "STL": 0.5,
     "BLK": 0.0,
     "TO": 0.5,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Jaden Hardy",
-    "POS": "SG",
-    "TEAM": "DAL",
-    "GP": 7.0,
-    "MIN": 10.0,
-    "PTS": 4.0,
-    "REB": 1.0,
-    "AST": 0.3,
-    "STL": 0.4,
-    "BLK": 0.0,
-    "TO": 0.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Jordan Hawkins",
@@ -4211,7 +4281,7 @@
     "STL": 0.3,
     "BLK": 0.0,
     "TO": 0.1,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Andrew Nembhard",
@@ -4225,21 +4295,49 @@
     "STL": 0.0,
     "BLK": 0.0,
     "TO": 2.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Kelly Olynyk",
-    "POS": "C",
-    "TEAM": "SAS",
-    "GP": 1.0,
-    "MIN": 9.0,
+    "NAME": "Ryan Nembhard",
+    "POS": "PG",
+    "TEAM": "DAL",
+    "GP": 4.0,
+    "MIN": 9.3,
     "PTS": 4.0,
-    "REB": 4.0,
-    "AST": 3.0,
+    "REB": 0.3,
+    "AST": 1.8,
     "STL": 0.0,
     "BLK": 0.0,
-    "TO": 1.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "TO": 1.3,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Olivier-Maxence Prosper",
+    "POS": "PF",
+    "TEAM": "MEM",
+    "GP": 7.0,
+    "MIN": 7.0,
+    "PTS": 4.0,
+    "REB": 2.0,
+    "AST": 0.1,
+    "STL": 0.1,
+    "BLK": 0.0,
+    "TO": 0.4,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Paul Reed",
+    "POS": "C",
+    "TEAM": "DET",
+    "GP": 7.0,
+    "MIN": 8.7,
+    "PTS": 4.0,
+    "REB": 2.6,
+    "AST": 0.6,
+    "STL": 0.7,
+    "BLK": 0.4,
+    "TO": 0.9,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Mitchell Robinson",
@@ -4253,7 +4351,7 @@
     "STL": 0.3,
     "BLK": 1.7,
     "TO": 0.7,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Mark Sears",
@@ -4267,7 +4365,7 @@
     "STL": 0.0,
     "BLK": 0.0,
     "TO": 0.5,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "James Wiseman",
@@ -4281,21 +4379,7 @@
     "STL": 0.0,
     "BLK": 1.0,
     "TO": 3.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Bones Hyland",
-    "POS": "PG",
-    "TEAM": "MIN",
-    "GP": 8.0,
-    "MIN": 10.6,
-    "PTS": 3.9,
-    "REB": 1.0,
-    "AST": 1.5,
-    "STL": 0.5,
-    "BLK": 0.0,
-    "TO": 1.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Terrence Shannon Jr.",
@@ -4309,7 +4393,21 @@
     "STL": 0.6,
     "BLK": 0.0,
     "TO": 0.9,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Pat Connaughton",
+    "POS": "SG",
+    "TEAM": "CHO",
+    "GP": 5.0,
+    "MIN": 8.0,
+    "PTS": 3.8,
+    "REB": 1.4,
+    "AST": 0.4,
+    "STL": 0.0,
+    "BLK": 0.2,
+    "TO": 0.4,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Yanic Konan Niederhauser",
@@ -4323,21 +4421,7 @@
     "STL": 0.0,
     "BLK": 0.2,
     "TO": 0.2,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "John Konchar",
-    "POS": "SG",
-    "TEAM": "MEM",
-    "GP": 7.0,
-    "MIN": 13.7,
-    "PTS": 3.7,
-    "REB": 2.7,
-    "AST": 1.0,
-    "STL": 0.7,
-    "BLK": 0.4,
-    "TO": 0.4,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Kevon Looney",
@@ -4351,35 +4435,7 @@
     "STL": 0.0,
     "BLK": 1.0,
     "TO": 1.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Kevin Love",
-    "POS": "PF",
-    "TEAM": "UTA",
-    "GP": 3.0,
-    "MIN": 15.0,
-    "PTS": 3.7,
-    "REB": 5.0,
-    "AST": 3.7,
-    "STL": 0.0,
-    "BLK": 0.0,
-    "TO": 1.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Paul Reed",
-    "POS": "C",
-    "TEAM": "DET",
-    "GP": 6.0,
-    "MIN": 7.7,
-    "PTS": 3.7,
-    "REB": 2.0,
-    "AST": 0.3,
-    "STL": 0.5,
-    "BLK": 0.5,
-    "TO": 1.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Gabe Vincent",
@@ -4393,49 +4449,21 @@
     "STL": 1.0,
     "BLK": 0.0,
     "TO": 0.7,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Keaton Wallace",
-    "POS": "PG",
-    "TEAM": "ATL",
-    "GP": 7.0,
-    "MIN": 11.1,
-    "PTS": 3.7,
-    "REB": 1.6,
-    "AST": 2.6,
-    "STL": 0.3,
-    "BLK": 0.1,
-    "TO": 0.7,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Hugo González",
+    "NAME": "Liam McNeeley",
     "POS": "SF",
-    "TEAM": "BOS",
+    "TEAM": "CHO",
     "GP": 7.0,
-    "MIN": 14.4,
+    "MIN": 11.9,
     "PTS": 3.6,
-    "REB": 2.0,
-    "AST": 0.7,
-    "STL": 0.9,
-    "BLK": 0.1,
-    "TO": 0.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Dwight Powell",
-    "POS": "C",
-    "TEAM": "DAL",
-    "GP": 7.0,
-    "MIN": 11.1,
-    "PTS": 3.6,
-    "REB": 2.1,
-    "AST": 0.6,
+    "REB": 1.9,
+    "AST": 1.3,
     "STL": 0.3,
-    "BLK": 0.3,
-    "TO": 0.7,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "BLK": 0.0,
+    "TO": 0.6,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Charles Bassey",
@@ -4449,21 +4477,21 @@
     "STL": 0.5,
     "BLK": 0.5,
     "TO": 0.5,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Daniss Jenkins",
-    "POS": "PG",
-    "TEAM": "DET",
-    "GP": 4.0,
-    "MIN": 10.3,
+    "NAME": "Justin Champagnie",
+    "POS": "SF",
+    "TEAM": "WAS",
+    "GP": 8.0,
+    "MIN": 9.5,
     "PTS": 3.5,
-    "REB": 0.0,
-    "AST": 1.5,
-    "STL": 1.0,
+    "REB": 3.5,
+    "AST": 0.5,
+    "STL": 0.4,
     "BLK": 0.0,
-    "TO": 1.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "TO": 0.3,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Karlo Matković",
@@ -4477,7 +4505,35 @@
     "STL": 0.0,
     "BLK": 0.3,
     "TO": 0.2,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Jordan McLaughlin",
+    "POS": "PG",
+    "TEAM": "SAS",
+    "GP": 8.0,
+    "MIN": 9.3,
+    "PTS": 3.5,
+    "REB": 0.8,
+    "AST": 1.3,
+    "STL": 0.9,
+    "BLK": 0.0,
+    "TO": 0.3,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Maxime Raynaud",
+    "POS": "C",
+    "TEAM": "SAC",
+    "GP": 4.0,
+    "MIN": 13.5,
+    "PTS": 3.5,
+    "REB": 4.5,
+    "AST": 0.8,
+    "STL": 0.5,
+    "BLK": 0.3,
+    "TO": 0.8,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Ben Saraf",
@@ -4491,21 +4547,21 @@
     "STL": 0.3,
     "BLK": 0.0,
     "TO": 1.5,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Trayce Jackson-Davis",
-    "POS": "C",
-    "TEAM": "GSW",
+    "NAME": "Daniss Jenkins",
+    "POS": "PG",
+    "TEAM": "DET",
     "GP": 5.0,
-    "MIN": 10.2,
+    "MIN": 9.4,
     "PTS": 3.4,
-    "REB": 1.4,
+    "REB": 0.2,
     "AST": 1.2,
-    "STL": 0.6,
-    "BLK": 0.2,
-    "TO": 0.2,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "STL": 1.0,
+    "BLK": 0.0,
+    "TO": 0.8,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Noah Penda",
@@ -4519,49 +4575,35 @@
     "STL": 0.2,
     "BLK": 0.4,
     "TO": 0.4,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Pat Spencer",
-    "POS": "PG",
-    "TEAM": "GSW",
+    "NAME": "Julian Strawther",
+    "POS": "SG",
+    "TEAM": "DEN",
     "GP": 5.0,
-    "MIN": 8.6,
+    "MIN": 5.8,
     "PTS": 3.4,
-    "REB": 1.2,
-    "AST": 1.2,
-    "STL": 0.6,
-    "BLK": 0.0,
+    "REB": 1.0,
+    "AST": 0.4,
+    "STL": 0.0,
+    "BLK": 0.2,
     "TO": 0.4,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Jordan Walsh",
-    "POS": "PF",
-    "TEAM": "BOS",
+    "NAME": "Cody Williams",
+    "POS": "SG",
+    "TEAM": "UTA",
     "GP": 5.0,
     "MIN": 9.6,
     "PTS": 3.4,
-    "REB": 2.2,
+    "REB": 1.0,
     "AST": 0.4,
-    "STL": 0.4,
-    "BLK": 0.0,
-    "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Pat Connaughton",
-    "POS": "SG",
-    "TEAM": "CHO",
-    "GP": 4.0,
-    "MIN": 7.5,
-    "PTS": 3.3,
-    "REB": 0.5,
-    "AST": 0.5,
-    "STL": 0.0,
-    "BLK": 0.3,
-    "TO": 0.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "STL": 0.2,
+    "BLK": 0.2,
+    "TO": 0.6,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Aaron Holiday",
@@ -4575,7 +4617,21 @@
     "STL": 0.0,
     "BLK": 0.0,
     "TO": 1.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "John Konchar",
+    "POS": "SG",
+    "TEAM": "MEM",
+    "GP": 8.0,
+    "MIN": 13.3,
+    "PTS": 3.3,
+    "REB": 2.6,
+    "AST": 0.9,
+    "STL": 0.9,
+    "BLK": 0.5,
+    "TO": 0.4,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Caleb Love",
@@ -4589,35 +4645,21 @@
     "STL": 0.0,
     "BLK": 0.0,
     "TO": 0.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Ryan Nembhard",
-    "POS": "PG",
-    "TEAM": "DAL",
-    "GP": 3.0,
-    "MIN": 9.0,
-    "PTS": 3.3,
-    "REB": 0.3,
-    "AST": 1.7,
-    "STL": 0.0,
-    "BLK": 0.0,
-    "TO": 1.7,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Jalen Pickett",
+    "NAME": "Drake Powell",
     "POS": "SG",
-    "TEAM": "DEN",
+    "TEAM": "BRK",
     "GP": 3.0,
-    "MIN": 5.3,
+    "MIN": 13.0,
     "PTS": 3.3,
-    "REB": 0.7,
+    "REB": 2.0,
     "AST": 1.0,
-    "STL": 0.0,
+    "STL": 0.3,
     "BLK": 0.0,
-    "TO": 0.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "TO": 1.3,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Jeremiah Robinson-Earl",
@@ -4631,21 +4673,7 @@
     "STL": 0.3,
     "BLK": 0.0,
     "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Julian Strawther",
-    "POS": "SG",
-    "TEAM": "DEN",
-    "GP": 4.0,
-    "MIN": 5.5,
-    "PTS": 3.3,
-    "REB": 1.0,
-    "AST": 0.5,
-    "STL": 0.0,
-    "BLK": 0.0,
-    "TO": 0.5,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Robert Williams",
@@ -4659,35 +4687,49 @@
     "STL": 0.3,
     "BLK": 0.3,
     "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Ja'Kobe Walter",
-    "POS": "SG",
-    "TEAM": "TOR",
-    "GP": 5.0,
-    "MIN": 12.0,
+    "NAME": "Jordan Walsh",
+    "POS": "PF",
+    "TEAM": "BOS",
+    "GP": 6.0,
+    "MIN": 11.2,
     "PTS": 3.2,
-    "REB": 1.8,
-    "AST": 0.8,
-    "STL": 0.4,
+    "REB": 2.8,
+    "AST": 0.3,
+    "STL": 0.5,
     "BLK": 0.2,
-    "TO": 0.6,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "TO": 0.3,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Justin Champagnie",
+    "NAME": "Hugo González",
     "POS": "SF",
-    "TEAM": "WAS",
-    "GP": 7.0,
-    "MIN": 8.1,
+    "TEAM": "BOS",
+    "GP": 8.0,
+    "MIN": 13.8,
+    "PTS": 3.1,
+    "REB": 2.3,
+    "AST": 0.8,
+    "STL": 0.8,
+    "BLK": 0.1,
+    "TO": 0.4,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Dwight Powell",
+    "POS": "C",
+    "TEAM": "DAL",
+    "GP": 8.0,
+    "MIN": 10.8,
     "PTS": 3.1,
     "REB": 2.4,
-    "AST": 0.3,
-    "STL": 0.1,
-    "BLK": 0.0,
-    "TO": 0.1,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "AST": 0.8,
+    "STL": 0.3,
+    "BLK": 0.3,
+    "TO": 0.6,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Tidjane Salaün",
@@ -4701,7 +4743,7 @@
     "STL": 0.3,
     "BLK": 0.1,
     "TO": 0.4,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Ochai Agbaji",
@@ -4715,7 +4757,7 @@
     "STL": 0.6,
     "BLK": 0.1,
     "TO": 0.4,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Carter Bryant",
@@ -4729,7 +4771,7 @@
     "STL": 0.4,
     "BLK": 0.2,
     "TO": 0.6,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Myron Gardner",
@@ -4743,7 +4785,7 @@
     "STL": 0.0,
     "BLK": 0.0,
     "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Jeff Green",
@@ -4757,21 +4799,7 @@
     "STL": 0.0,
     "BLK": 0.3,
     "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Elijah Harkless",
-    "POS": "SG",
-    "TEAM": "UTA",
-    "GP": 4.0,
-    "MIN": 13.8,
-    "PTS": 3.0,
-    "REB": 1.3,
-    "AST": 1.0,
-    "STL": 0.8,
-    "BLK": 0.0,
-    "TO": 0.8,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "David Jones García",
@@ -4785,21 +4813,21 @@
     "STL": 0.0,
     "BLK": 0.0,
     "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "E.J. Liddell",
-    "POS": "PF",
-    "TEAM": "BRK",
+    "NAME": "Bobi Klintman",
+    "POS": "SF",
+    "TEAM": "DET",
     "GP": 2.0,
-    "MIN": 4.5,
+    "MIN": 11.0,
     "PTS": 3.0,
-    "REB": 2.5,
-    "AST": 0.0,
-    "STL": 0.0,
+    "REB": 4.0,
+    "AST": 0.5,
+    "STL": 1.0,
     "BLK": 0.0,
-    "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "TO": 0.5,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Kyle Lowry",
@@ -4813,7 +4841,7 @@
     "STL": 1.0,
     "BLK": 0.0,
     "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Riley Minix",
@@ -4827,7 +4855,49 @@
     "STL": 0.3,
     "BLK": 0.0,
     "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Kelly Olynyk",
+    "POS": "C",
+    "TEAM": "SAS",
+    "GP": 2.0,
+    "MIN": 7.5,
+    "PTS": 3.0,
+    "REB": 2.5,
+    "AST": 1.5,
+    "STL": 0.0,
+    "BLK": 0.0,
+    "TO": 0.5,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Nae'Qwan Tomlin",
+    "POS": "PF",
+    "TEAM": "CLE",
+    "GP": 2.0,
+    "MIN": 3.5,
+    "PTS": 3.0,
+    "REB": 1.0,
+    "AST": 0.0,
+    "STL": 0.5,
+    "BLK": 0.5,
+    "TO": 0.0,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Tristan Vukcevic",
+    "POS": "C",
+    "TEAM": "WAS",
+    "GP": 8.0,
+    "MIN": 5.6,
+    "PTS": 3.0,
+    "REB": 0.8,
+    "AST": 0.5,
+    "STL": 0.1,
+    "BLK": 0.4,
+    "TO": 0.5,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Jabari Walker",
@@ -4841,21 +4911,21 @@
     "STL": 0.3,
     "BLK": 0.4,
     "TO": 0.4,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Cody Williams",
+    "NAME": "Jamir Watkins",
     "POS": "SG",
-    "TEAM": "UTA",
-    "GP": 4.0,
-    "MIN": 9.5,
+    "TEAM": "WAS",
+    "GP": 2.0,
+    "MIN": 10.0,
     "PTS": 3.0,
-    "REB": 1.0,
-    "AST": 0.5,
+    "REB": 3.0,
+    "AST": 0.0,
     "STL": 0.0,
-    "BLK": 0.3,
-    "TO": 0.8,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "BLK": 0.5,
+    "TO": 0.5,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Xavier Tillman Sr.",
@@ -4869,35 +4939,49 @@
     "STL": 0.4,
     "BLK": 0.1,
     "TO": 0.1,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Tristan Vukcevic",
+    "NAME": "Moussa Cisse",
     "POS": "C",
-    "TEAM": "WAS",
-    "GP": 7.0,
-    "MIN": 5.6,
-    "PTS": 2.9,
-    "REB": 0.9,
-    "AST": 0.6,
-    "STL": 0.1,
-    "BLK": 0.3,
-    "TO": 0.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "TEAM": "DAL",
+    "GP": 5.0,
+    "MIN": 7.2,
+    "PTS": 2.8,
+    "REB": 2.0,
+    "AST": 0.0,
+    "STL": 0.2,
+    "BLK": 0.4,
+    "TO": 0.8,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Liam McNeeley",
-    "POS": "SF",
-    "TEAM": "CHO",
-    "GP": 6.0,
-    "MIN": 10.7,
+    "NAME": "Kevin Love",
+    "POS": "PF",
+    "TEAM": "UTA",
+    "GP": 4.0,
+    "MIN": 12.0,
     "PTS": 2.8,
-    "REB": 1.5,
-    "AST": 1.3,
-    "STL": 0.2,
+    "REB": 4.0,
+    "AST": 2.8,
+    "STL": 0.0,
     "BLK": 0.0,
-    "TO": 0.7,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "TO": 1.0,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Zeke Nnaji",
+    "POS": "PF",
+    "TEAM": "DEN",
+    "GP": 4.0,
+    "MIN": 3.8,
+    "PTS": 2.8,
+    "REB": 0.3,
+    "AST": 0.3,
+    "STL": 0.0,
+    "BLK": 0.0,
+    "TO": 0.3,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "JD Davison",
@@ -4911,7 +4995,7 @@
     "STL": 0.3,
     "BLK": 0.3,
     "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Johnny Furphy",
@@ -4925,21 +5009,35 @@
     "STL": 0.7,
     "BLK": 0.0,
     "TO": 1.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Jordan McLaughlin",
-    "POS": "PG",
-    "TEAM": "SAS",
-    "GP": 7.0,
-    "MIN": 9.1,
+    "NAME": "E.J. Liddell",
+    "POS": "PF",
+    "TEAM": "BRK",
+    "GP": 3.0,
+    "MIN": 4.7,
     "PTS": 2.7,
-    "REB": 0.7,
-    "AST": 1.3,
-    "STL": 0.9,
+    "REB": 2.0,
+    "AST": 0.0,
+    "STL": 0.0,
     "BLK": 0.0,
-    "TO": 0.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "TO": 0.0,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Ja'Kobe Walter",
+    "POS": "SG",
+    "TEAM": "TOR",
+    "GP": 6.0,
+    "MIN": 10.8,
+    "PTS": 2.7,
+    "REB": 1.5,
+    "AST": 0.7,
+    "STL": 0.5,
+    "BLK": 0.2,
+    "TO": 0.8,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Branden Carlson",
@@ -4953,7 +5051,21 @@
     "STL": 0.0,
     "BLK": 0.1,
     "TO": 0.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Elijah Harkless",
+    "POS": "SG",
+    "TEAM": "UTA",
+    "GP": 5.0,
+    "MIN": 12.4,
+    "PTS": 2.6,
+    "REB": 1.2,
+    "AST": 0.8,
+    "STL": 0.6,
+    "BLK": 0.0,
+    "TO": 0.6,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Tyler Kolek",
@@ -4967,35 +5079,7 @@
     "STL": 0.1,
     "BLK": 0.0,
     "TO": 0.8,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Tyrese Proctor",
-    "POS": "PG",
-    "TEAM": "CLE",
-    "GP": 7.0,
-    "MIN": 10.4,
-    "PTS": 2.6,
-    "REB": 0.9,
-    "AST": 1.0,
-    "STL": 0.6,
-    "BLK": 0.0,
-    "TO": 0.7,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Will Riley",
-    "POS": "SF",
-    "TEAM": "WAS",
-    "GP": 7.0,
-    "MIN": 7.3,
-    "PTS": 2.6,
-    "REB": 1.6,
-    "AST": 0.9,
-    "STL": 0.3,
-    "BLK": 0.0,
-    "TO": 0.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Adem Bona",
@@ -5009,7 +5093,7 @@
     "STL": 0.5,
     "BLK": 1.6,
     "TO": 0.9,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Chris Boucher",
@@ -5023,21 +5107,21 @@
     "STL": 0.7,
     "BLK": 0.8,
     "TO": 0.2,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Tyus Jones",
-    "POS": "PG",
-    "TEAM": "ORL",
-    "GP": 8.0,
-    "MIN": 14.1,
+    "NAME": "Jalen Pickett",
+    "POS": "SG",
+    "TEAM": "DEN",
+    "GP": 4.0,
+    "MIN": 5.3,
     "PTS": 2.5,
     "REB": 1.0,
-    "AST": 1.4,
-    "STL": 0.5,
-    "BLK": 0.3,
-    "TO": 0.5,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "AST": 1.5,
+    "STL": 0.0,
+    "BLK": 0.0,
+    "TO": 0.3,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Baylor Scheierman",
@@ -5051,21 +5135,21 @@
     "STL": 0.4,
     "BLK": 0.0,
     "TO": 0.1,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Gary Payton II",
-    "POS": "SG",
-    "TEAM": "GSW",
-    "GP": 8.0,
-    "MIN": 8.8,
+    "NAME": "Leonard Miller",
+    "POS": "SF",
+    "TEAM": "MIN",
+    "GP": 5.0,
+    "MIN": 4.4,
     "PTS": 2.4,
-    "REB": 2.0,
-    "AST": 0.9,
-    "STL": 0.4,
-    "BLK": 0.3,
+    "REB": 1.2,
+    "AST": 0.0,
+    "STL": 0.2,
+    "BLK": 0.0,
     "TO": 0.6,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Nicolas Batum",
@@ -5079,21 +5163,7 @@
     "STL": 0.6,
     "BLK": 0.4,
     "TO": 0.4,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "PJ Hall",
-    "POS": "C",
-    "TEAM": "MEM",
-    "GP": 4.0,
-    "MIN": 4.8,
-    "PTS": 2.3,
-    "REB": 1.5,
-    "AST": 0.3,
-    "STL": 0.0,
-    "BLK": 0.5,
-    "TO": 0.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Keshad Johnson",
@@ -5107,7 +5177,7 @@
     "STL": 0.7,
     "BLK": 0.0,
     "TO": 0.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Chris Paul",
@@ -5121,7 +5191,35 @@
     "STL": 1.1,
     "BLK": 0.0,
     "TO": 0.9,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Gary Payton II",
+    "POS": "SG",
+    "TEAM": "GSW",
+    "GP": 9.0,
+    "MIN": 8.4,
+    "PTS": 2.3,
+    "REB": 2.0,
+    "AST": 0.9,
+    "STL": 0.3,
+    "BLK": 0.2,
+    "TO": 0.6,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Will Riley",
+    "POS": "SF",
+    "TEAM": "WAS",
+    "GP": 8.0,
+    "MIN": 7.6,
+    "PTS": 2.3,
+    "REB": 1.6,
+    "AST": 0.9,
+    "STL": 0.3,
+    "BLK": 0.0,
+    "TO": 0.3,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Nolan Traoré",
@@ -5135,21 +5233,21 @@
     "STL": 0.7,
     "BLK": 0.0,
     "TO": 0.7,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Chaz Lanier",
-    "POS": "SG",
-    "TEAM": "DET",
-    "GP": 5.0,
-    "MIN": 6.4,
+    "NAME": "Tyus Jones",
+    "POS": "PG",
+    "TEAM": "ORL",
+    "GP": 9.0,
+    "MIN": 13.4,
     "PTS": 2.2,
-    "REB": 0.2,
-    "AST": 0.4,
-    "STL": 0.2,
-    "BLK": 0.0,
-    "TO": 0.2,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "REB": 1.0,
+    "AST": 1.2,
+    "STL": 0.4,
+    "BLK": 0.2,
+    "TO": 0.4,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Khaman Maluach",
@@ -5163,7 +5261,21 @@
     "STL": 0.0,
     "BLK": 0.4,
     "TO": 0.4,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Jonathan Isaac",
+    "POS": "PF",
+    "TEAM": "ORL",
+    "GP": 8.0,
+    "MIN": 8.0,
+    "PTS": 2.1,
+    "REB": 1.9,
+    "AST": 0.1,
+    "STL": 0.4,
+    "BLK": 0.5,
+    "TO": 0.4,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Johni Broome",
@@ -5177,7 +5289,21 @@
     "STL": 0.0,
     "BLK": 0.0,
     "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Thomas Bryant",
+    "POS": "C",
+    "TEAM": "CLE",
+    "GP": 6.0,
+    "MIN": 5.7,
+    "PTS": 2.0,
+    "REB": 1.3,
+    "AST": 0.2,
+    "STL": 0.5,
+    "BLK": 0.3,
+    "TO": 0.2,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Hunter Dickinson",
@@ -5191,21 +5317,7 @@
     "STL": 0.0,
     "BLK": 1.0,
     "TO": 2.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Jonathan Isaac",
-    "POS": "PF",
-    "TEAM": "ORL",
-    "GP": 7.0,
-    "MIN": 8.4,
-    "PTS": 2.0,
-    "REB": 2.0,
-    "AST": 0.1,
-    "STL": 0.4,
-    "BLK": 0.6,
-    "TO": 0.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Colby Jones",
@@ -5219,21 +5331,7 @@
     "STL": 0.0,
     "BLK": 0.0,
     "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Bobi Klintman",
-    "POS": "SF",
-    "TEAM": "DET",
-    "GP": 1.0,
-    "MIN": 7.0,
-    "PTS": 2.0,
-    "REB": 3.0,
-    "AST": 0.0,
-    "STL": 2.0,
-    "BLK": 0.0,
-    "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Isaiah Livers",
@@ -5247,7 +5345,7 @@
     "STL": 0.4,
     "BLK": 0.4,
     "TO": 0.2,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Cody Martin",
@@ -5261,21 +5359,7 @@
     "STL": 1.0,
     "BLK": 0.0,
     "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Zeke Nnaji",
-    "POS": "PF",
-    "TEAM": "DEN",
-    "GP": 3.0,
-    "MIN": 3.7,
-    "PTS": 2.0,
-    "REB": 0.3,
-    "AST": 0.3,
-    "STL": 0.0,
-    "BLK": 0.0,
-    "TO": 0.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Micah Peavy",
@@ -5289,7 +5373,7 @@
     "STL": 0.3,
     "BLK": 0.0,
     "TO": 0.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Taelon Peter",
@@ -5303,35 +5387,7 @@
     "STL": 0.2,
     "BLK": 0.2,
     "TO": 0.7,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Drake Powell",
-    "POS": "SG",
-    "TEAM": "BRK",
-    "GP": 2.0,
-    "MIN": 6.0,
-    "PTS": 2.0,
-    "REB": 1.0,
-    "AST": 0.5,
-    "STL": 0.5,
-    "BLK": 0.0,
-    "TO": 0.5,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Maxime Raynaud",
-    "POS": "C",
-    "TEAM": "SAC",
-    "GP": 3.0,
-    "MIN": 10.3,
-    "PTS": 2.0,
-    "REB": 2.7,
-    "AST": 0.7,
-    "STL": 0.3,
-    "BLK": 0.3,
-    "TO": 0.7,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Guerschon Yabusele",
@@ -5345,7 +5401,7 @@
     "STL": 0.1,
     "BLK": 0.1,
     "TO": 0.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Nigel Hayes-Davis",
@@ -5359,35 +5415,49 @@
     "STL": 0.4,
     "BLK": 0.0,
     "TO": 0.4,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Chris Youngblood",
-    "POS": "SG",
-    "TEAM": "OKC",
-    "GP": 8.0,
-    "MIN": 4.6,
-    "PTS": 1.9,
-    "REB": 0.6,
-    "AST": 0.1,
-    "STL": 0.0,
-    "BLK": 0.0,
-    "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Amir Coffey",
     "POS": "SG",
     "TEAM": "MIL",
-    "GP": 8.0,
+    "GP": 9.0,
     "MIN": 10.0,
     "PTS": 1.8,
-    "REB": 1.1,
+    "REB": 1.2,
     "AST": 0.8,
     "STL": 0.0,
     "BLK": 0.1,
     "TO": 0.1,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Anthony Gill",
+    "POS": "PF",
+    "TEAM": "WAS",
+    "GP": 5.0,
+    "MIN": 2.6,
+    "PTS": 1.8,
+    "REB": 0.8,
+    "AST": 0.0,
+    "STL": 0.0,
+    "BLK": 0.0,
+    "TO": 0.4,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "PJ Hall",
+    "POS": "C",
+    "TEAM": "MEM",
+    "GP": 5.0,
+    "MIN": 3.8,
+    "PTS": 1.8,
+    "REB": 1.2,
+    "AST": 0.2,
+    "STL": 0.0,
+    "BLK": 0.4,
+    "TO": 0.2,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Yang Hansen",
@@ -5401,7 +5471,35 @@
     "STL": 0.0,
     "BLK": 0.4,
     "TO": 0.6,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Chaz Lanier",
+    "POS": "SG",
+    "TEAM": "DET",
+    "GP": 6.0,
+    "MIN": 5.8,
+    "PTS": 1.8,
+    "REB": 0.3,
+    "AST": 0.3,
+    "STL": 0.2,
+    "BLK": 0.0,
+    "TO": 0.2,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Joan Beringer",
+    "POS": "PF",
+    "TEAM": "MIN",
+    "GP": 6.0,
+    "MIN": 3.8,
+    "PTS": 1.7,
+    "REB": 1.3,
+    "AST": 0.0,
+    "STL": 0.0,
+    "BLK": 0.2,
+    "TO": 0.3,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Dylan Cardwell",
@@ -5415,7 +5513,7 @@
     "STL": 0.7,
     "BLK": 1.0,
     "TO": 0.7,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Sidy Cissoko",
@@ -5429,7 +5527,21 @@
     "STL": 0.7,
     "BLK": 0.0,
     "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Ousmane Dieng",
+    "POS": "C",
+    "TEAM": "OKC",
+    "GP": 7.0,
+    "MIN": 10.6,
+    "PTS": 1.7,
+    "REB": 2.1,
+    "AST": 0.6,
+    "STL": 0.0,
+    "BLK": 0.7,
+    "TO": 0.3,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Harrison Ingram",
@@ -5443,35 +5555,7 @@
     "STL": 0.0,
     "BLK": 0.0,
     "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "GG Jackson II",
-    "POS": "PF",
-    "TEAM": "MEM",
-    "GP": 3.0,
-    "MIN": 6.7,
-    "PTS": 1.7,
-    "REB": 0.7,
-    "AST": 0.0,
-    "STL": 0.3,
-    "BLK": 0.0,
-    "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Caleb Martin",
-    "POS": "SF",
-    "TEAM": "DAL",
-    "GP": 7.0,
-    "MIN": 7.9,
-    "PTS": 1.7,
-    "REB": 1.1,
-    "AST": 0.6,
-    "STL": 0.4,
-    "BLK": 0.0,
-    "TO": 0.4,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Dario Šarić",
@@ -5485,63 +5569,35 @@
     "STL": 0.0,
     "BLK": 0.0,
     "TO": 0.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Thomas Bryant",
-    "POS": "C",
-    "TEAM": "CLE",
-    "GP": 5.0,
-    "MIN": 5.6,
-    "PTS": 1.6,
-    "REB": 1.2,
-    "AST": 0.2,
-    "STL": 0.2,
-    "BLK": 0.4,
-    "TO": 0.2,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "NAME": "Chris Youngblood",
+    "POS": "SG",
+    "TEAM": "OKC",
+    "GP": 9.0,
+    "MIN": 5.0,
+    "PTS": 1.7,
+    "REB": 0.6,
+    "AST": 0.1,
+    "STL": 0.0,
+    "BLK": 0.0,
+    "TO": 0.0,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Gui Santos",
     "POS": "PF",
     "TEAM": "GSW",
-    "GP": 8.0,
-    "MIN": 6.3,
+    "GP": 9.0,
+    "MIN": 6.2,
     "PTS": 1.6,
-    "REB": 0.9,
-    "AST": 0.3,
+    "REB": 1.2,
+    "AST": 0.2,
     "STL": 0.3,
     "BLK": 0.0,
     "TO": 0.6,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Ousmane Dieng",
-    "POS": "C",
-    "TEAM": "OKC",
-    "GP": 6.0,
-    "MIN": 9.5,
-    "PTS": 1.5,
-    "REB": 1.7,
-    "AST": 0.5,
-    "STL": 0.0,
-    "BLK": 0.8,
-    "TO": 0.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Anthony Gill",
-    "POS": "PF",
-    "TEAM": "WAS",
-    "GP": 4.0,
-    "MIN": 2.8,
-    "PTS": 1.5,
-    "REB": 1.0,
-    "AST": 0.0,
-    "STL": 0.0,
-    "BLK": 0.0,
-    "TO": 0.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "DaRon Holmes",
@@ -5555,7 +5611,7 @@
     "STL": 0.0,
     "BLK": 0.0,
     "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Jett Howard",
@@ -5569,7 +5625,7 @@
     "STL": 0.0,
     "BLK": 0.2,
     "TO": 0.2,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Bronny James",
@@ -5583,63 +5639,63 @@
     "STL": 0.8,
     "BLK": 0.2,
     "TO": 0.7,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Leonard Miller",
+    "NAME": "Caleb Martin",
     "POS": "SF",
-    "TEAM": "MIN",
-    "GP": 4.0,
-    "MIN": 3.3,
+    "TEAM": "DAL",
+    "GP": 8.0,
+    "MIN": 9.0,
     "PTS": 1.5,
-    "REB": 0.8,
-    "AST": 0.0,
-    "STL": 0.3,
-    "BLK": 0.0,
-    "TO": 0.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "REB": 1.4,
+    "AST": 0.5,
+    "STL": 0.4,
+    "BLK": 0.1,
+    "TO": 0.4,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Julian Phillips",
-    "POS": "SF",
-    "TEAM": "CHI",
-    "GP": 6.0,
-    "MIN": 6.5,
-    "PTS": 1.5,
-    "REB": 0.3,
-    "AST": 0.2,
-    "STL": 0.5,
-    "BLK": 0.2,
-    "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Jae'Sean Tate",
-    "POS": "SF",
-    "TEAM": "HOU",
-    "GP": 4.0,
-    "MIN": 6.8,
-    "PTS": 1.5,
-    "REB": 1.0,
-    "AST": 0.0,
-    "STL": 0.3,
-    "BLK": 0.0,
-    "TO": 0.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Johnny Juzang",
+    "NAME": "Luke Travers",
     "POS": "SG",
-    "TEAM": "MIN",
-    "GP": 3.0,
-    "MIN": 2.3,
-    "PTS": 1.3,
-    "REB": 0.3,
-    "AST": 0.0,
+    "TEAM": "CLE",
+    "GP": 4.0,
+    "MIN": 8.3,
+    "PTS": 1.5,
+    "REB": 1.8,
+    "AST": 1.0,
+    "STL": 0.3,
+    "BLK": 0.5,
+    "TO": 0.3,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Dalen Terry",
+    "POS": "SG",
+    "TEAM": "CHI",
+    "GP": 5.0,
+    "MIN": 5.6,
+    "PTS": 1.4,
+    "REB": 0.4,
+    "AST": 0.6,
     "STL": 0.0,
+    "BLK": 0.4,
+    "TO": 0.0,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "GG Jackson II",
+    "POS": "PF",
+    "TEAM": "MEM",
+    "GP": 4.0,
+    "MIN": 5.0,
+    "PTS": 1.3,
+    "REB": 0.5,
+    "AST": 0.0,
+    "STL": 0.5,
     "BLK": 0.0,
     "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Bryce McGowens",
@@ -5653,7 +5709,21 @@
     "STL": 0.0,
     "BLK": 0.0,
     "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Julian Phillips",
+    "POS": "SF",
+    "TEAM": "CHI",
+    "GP": 7.0,
+    "MIN": 6.1,
+    "PTS": 1.3,
+    "REB": 0.3,
+    "AST": 0.1,
+    "STL": 0.4,
+    "BLK": 0.1,
+    "TO": 0.0,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Rayan Rupert",
@@ -5667,21 +5737,7 @@
     "STL": 0.5,
     "BLK": 0.0,
     "TO": 0.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Dalen Terry",
-    "POS": "SG",
-    "TEAM": "CHI",
-    "GP": 4.0,
-    "MIN": 5.8,
-    "PTS": 1.3,
-    "REB": 0.3,
-    "AST": 0.5,
-    "STL": 0.0,
-    "BLK": 0.5,
-    "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Ariel Hukporti",
@@ -5695,35 +5751,49 @@
     "STL": 0.2,
     "BLK": 0.2,
     "TO": 0.4,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Jae'Sean Tate",
+    "POS": "SF",
+    "TEAM": "HOU",
+    "GP": 5.0,
+    "MIN": 5.4,
+    "PTS": 1.2,
+    "REB": 0.8,
+    "AST": 0.0,
+    "STL": 0.2,
+    "BLK": 0.0,
+    "TO": 0.2,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Brooks Barnhizer",
     "POS": "SG",
     "TEAM": "OKC",
-    "GP": 7.0,
-    "MIN": 7.0,
-    "PTS": 1.1,
-    "REB": 1.3,
+    "GP": 8.0,
+    "MIN": 6.6,
+    "PTS": 1.0,
+    "REB": 1.4,
     "AST": 0.1,
     "STL": 0.1,
     "BLK": 0.0,
-    "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "TO": 0.1,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Moussa Cisse",
-    "POS": "C",
-    "TEAM": "DAL",
-    "GP": 4.0,
-    "MIN": 5.5,
+    "NAME": "Devin Carter",
+    "POS": "PG",
+    "TEAM": "SAC",
+    "GP": 6.0,
+    "MIN": 6.2,
     "PTS": 1.0,
-    "REB": 0.5,
-    "AST": 0.0,
-    "STL": 0.3,
-    "BLK": 0.3,
-    "TO": 0.5,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "REB": 0.8,
+    "AST": 0.7,
+    "STL": 0.7,
+    "BLK": 0.2,
+    "TO": 0.3,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "N'Faly Dante",
@@ -5737,7 +5807,7 @@
     "STL": 0.7,
     "BLK": 0.0,
     "TO": 0.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Rasheer Fleming",
@@ -5751,7 +5821,7 @@
     "STL": 0.2,
     "BLK": 0.0,
     "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Ron Harper Jr.",
@@ -5765,7 +5835,21 @@
     "STL": 0.0,
     "BLK": 0.0,
     "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "AJ Johnson",
+    "POS": "SG",
+    "TEAM": "WAS",
+    "GP": 7.0,
+    "MIN": 5.0,
+    "PTS": 1.0,
+    "REB": 0.6,
+    "AST": 0.6,
+    "STL": 0.0,
+    "BLK": 0.0,
+    "TO": 0.1,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Isaac Jones",
@@ -5779,7 +5863,21 @@
     "STL": 0.0,
     "BLK": 0.0,
     "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Johnny Juzang",
+    "POS": "SG",
+    "TEAM": "MIN",
+    "GP": 4.0,
+    "MIN": 3.0,
+    "PTS": 1.0,
+    "REB": 0.3,
+    "AST": 0.0,
+    "STL": 0.0,
+    "BLK": 0.0,
+    "TO": 0.3,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Jonathan Mogbo",
@@ -5793,7 +5891,7 @@
     "STL": 0.2,
     "BLK": 0.3,
     "TO": 0.2,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Kobe Sanders",
@@ -5807,21 +5905,7 @@
     "STL": 1.0,
     "BLK": 0.0,
     "TO": 0.5,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Jericho Sims",
-    "POS": "C",
-    "TEAM": "MIL",
-    "GP": 5.0,
-    "MIN": 4.4,
-    "PTS": 1.0,
-    "REB": 0.8,
-    "AST": 0.0,
-    "STL": 0.0,
-    "BLK": 0.2,
-    "TO": 0.2,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Jacob Toppin",
@@ -5835,7 +5919,7 @@
     "STL": 0.0,
     "BLK": 0.0,
     "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Amari Williams",
@@ -5849,7 +5933,7 @@
     "STL": 0.5,
     "BLK": 0.0,
     "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Jahmir Young",
@@ -5863,21 +5947,7 @@
     "STL": 0.0,
     "BLK": 0.0,
     "TO": 0.5,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Joan Beringer",
-    "POS": "PF",
-    "TEAM": "MIN",
-    "GP": 5.0,
-    "MIN": 3.0,
-    "PTS": 0.8,
-    "REB": 1.0,
-    "AST": 0.0,
-    "STL": 0.0,
-    "BLK": 0.0,
-    "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Kobe Brown",
@@ -5891,21 +5961,35 @@
     "STL": 0.0,
     "BLK": 0.0,
     "TO": 0.4,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
-    "NAME": "Devin Carter",
-    "POS": "PG",
-    "TEAM": "SAC",
+    "NAME": "Spencer Jones",
+    "POS": "SF",
+    "TEAM": "DEN",
     "GP": 5.0,
-    "MIN": 6.4,
+    "MIN": 3.8,
     "PTS": 0.8,
-    "REB": 0.8,
-    "AST": 0.6,
+    "REB": 0.2,
+    "AST": 0.0,
     "STL": 0.6,
+    "BLK": 0.0,
+    "TO": 0.8,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
+  },
+  {
+    "NAME": "Jericho Sims",
+    "POS": "C",
+    "TEAM": "MIL",
+    "GP": 6.0,
+    "MIN": 4.2,
+    "PTS": 0.8,
+    "REB": 0.7,
+    "AST": 0.0,
+    "STL": 0.0,
     "BLK": 0.2,
-    "TO": 0.4,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "TO": 0.2,
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Gary Harris",
@@ -5919,7 +6003,7 @@
     "STL": 0.3,
     "BLK": 0.0,
     "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Mason Plumlee",
@@ -5933,7 +6017,7 @@
     "STL": 0.0,
     "BLK": 0.0,
     "TO": 0.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Hunter Sallis",
@@ -5947,21 +6031,7 @@
     "STL": 0.0,
     "BLK": 0.0,
     "TO": 0.7,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Luke Travers",
-    "POS": "SG",
-    "TEAM": "CLE",
-    "GP": 3.0,
-    "MIN": 8.0,
-    "PTS": 0.7,
-    "REB": 1.7,
-    "AST": 0.7,
-    "STL": 0.0,
-    "BLK": 0.3,
-    "TO": 0.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Mohamed Diawara",
@@ -5975,35 +6045,7 @@
     "STL": 0.0,
     "BLK": 0.0,
     "TO": 0.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "AJ Johnson",
-    "POS": "SG",
-    "TEAM": "WAS",
-    "GP": 6.0,
-    "MIN": 4.3,
-    "PTS": 0.5,
-    "REB": 0.7,
-    "AST": 0.3,
-    "STL": 0.0,
-    "BLK": 0.0,
-    "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Spencer Jones",
-    "POS": "SF",
-    "TEAM": "DEN",
-    "GP": 4.0,
-    "MIN": 3.8,
-    "PTS": 0.5,
-    "REB": 0.3,
-    "AST": 0.0,
-    "STL": 0.5,
-    "BLK": 0.0,
-    "TO": 1.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Jase Richardson",
@@ -6017,7 +6059,7 @@
     "STL": 0.0,
     "BLK": 0.0,
     "TO": 0.5,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Bismack Biyombo",
@@ -6031,7 +6073,7 @@
     "STL": 0.6,
     "BLK": 0.0,
     "TO": 0.4,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Jahmyl Telfort",
@@ -6045,7 +6087,7 @@
     "STL": 0.0,
     "BLK": 0.0,
     "TO": 0.3,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Thanasis Antetokounmpo",
@@ -6059,7 +6101,7 @@
     "STL": 0.0,
     "BLK": 0.0,
     "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Jevon Carter",
@@ -6073,7 +6115,7 @@
     "STL": 0.0,
     "BLK": 0.0,
     "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Sharife Cooper",
@@ -6087,7 +6129,7 @@
     "STL": 0.0,
     "BLK": 0.0,
     "TO": 0.5,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Pacome Dadiet",
@@ -6101,21 +6143,21 @@
     "STL": 0.0,
     "BLK": 0.0,
     "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Tyson Etienne",
     "POS": "PG",
     "TEAM": "BRK",
-    "GP": 1.0,
-    "MIN": 5.0,
+    "GP": 2.0,
+    "MIN": 5.5,
     "PTS": 0.0,
     "REB": 0.0,
     "AST": 0.0,
     "STL": 0.0,
     "BLK": 0.0,
     "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Caleb Houstan",
@@ -6129,21 +6171,21 @@
     "STL": 0.0,
     "BLK": 0.0,
     "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Joe Ingles",
     "POS": "SF",
     "TEAM": "MIN",
-    "GP": 3.0,
-    "MIN": 2.3,
+    "GP": 4.0,
+    "MIN": 4.0,
     "PTS": 0.0,
     "REB": 0.0,
-    "AST": 0.7,
+    "AST": 1.3,
     "STL": 0.0,
     "BLK": 0.0,
     "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Andre Jackson Jr.",
@@ -6157,7 +6199,7 @@
     "STL": 0.7,
     "BLK": 0.0,
     "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Trey Jemison",
@@ -6171,7 +6213,7 @@
     "STL": 0.0,
     "BLK": 0.0,
     "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Miles Kelly",
@@ -6185,7 +6227,7 @@
     "STL": 0.0,
     "BLK": 0.0,
     "TO": 1.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Christian Koloko",
@@ -6199,7 +6241,7 @@
     "STL": 0.0,
     "BLK": 0.0,
     "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Chris Mañon",
@@ -6213,7 +6255,7 @@
     "STL": 0.0,
     "BLK": 0.5,
     "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Jared McCain",
@@ -6227,7 +6269,7 @@
     "STL": 0.0,
     "BLK": 0.0,
     "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Orlando Robinson",
@@ -6241,49 +6283,21 @@
     "STL": 0.0,
     "BLK": 0.0,
     "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Nae'Qwan Tomlin",
-    "POS": "PF",
-    "TEAM": "CLE",
-    "GP": 1.0,
-    "MIN": 1.0,
-    "PTS": 0.0,
-    "REB": 0.0,
-    "AST": 0.0,
-    "STL": 0.0,
-    "BLK": 0.0,
-    "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Hunter Tyson",
     "POS": "PF",
     "TEAM": "DEN",
-    "GP": 2.0,
-    "MIN": 3.5,
+    "GP": 3.0,
+    "MIN": 3.7,
     "PTS": 0.0,
-    "REB": 2.5,
+    "REB": 2.0,
     "AST": 0.0,
     "STL": 0.0,
     "BLK": 0.0,
     "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
-  },
-  {
-    "NAME": "Jamir Watkins",
-    "POS": "SG",
-    "TEAM": "WAS",
-    "GP": 1.0,
-    "MIN": 0.0,
-    "PTS": 0.0,
-    "REB": 0.0,
-    "AST": 0.0,
-    "STL": 0.0,
-    "BLK": 0.0,
-    "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   },
   {
     "NAME": "Danny Wolf",
@@ -6297,6 +6311,6 @@
     "STL": 0.0,
     "BLK": 0.0,
     "TO": 0.0,
-    "UPDATED_AT": "2025-11-07T15:15:15.745981+00:00"
+    "UPDATED_AT": "2025-11-08T15:12:44.453758+00:00"
   }
 ]
